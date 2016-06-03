@@ -1,0 +1,46 @@
+
+//
+// VARIABLES
+//
+
+// Some cool main theme colors(violet:#2ddbb3,#8476ad,blue:#5cacee,red:#ff7373,#ff6f69, green:#6acf64, orange:#ffa268)
+
+// Colors
+
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+$blue: #4183C4;
+
+
+// Main theme colors 
+
+$mono-color:#8476ad;                //main theme color(header, links, footer icons, buttons, post-title)
+$hl-color: $darkGray;              // header link color (author name and posted on date) for blog post meta 
+$navbar-hover-color:$gray;        // navbar hover color (site name and navbar links hover color)
+$link-color: $darkerGray;        //  normal hyperlink color other than the ones above.
+
+
+// Heading colors
+// You can play around with these too!
+$h1-color: $mono-color;
+$h2-color: $mono-color; 
+$h3-color: $darkerGray; 
+$h4-color: $gray; 
+
+
+// Font stacks
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$raleway: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
