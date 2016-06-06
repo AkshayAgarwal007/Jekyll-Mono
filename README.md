@@ -58,7 +58,7 @@ Finally you need to set up your avatar. Pick up your avatar, resize it to 220x22
 
 Publish your first blog post by editing /_posts/2016-03-06-Eternal-Lorem-Ipsum.md. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing your blog posts in Markdown. If you are not comfortable with writing in Markdown you can use [Prose](http://prose.io/) for writing your blog posts. [This](https://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/s) will help you in setting up prose.
 
-![Post](/images/post.png)
+![Post](/images/post.PNG)
 
 To create a post just click + icon in /_posts/. Create a new file with the following naming convention: **year-month-day-title.md**. Also make sure to include the front-matter at the top of each new blog post.
 
