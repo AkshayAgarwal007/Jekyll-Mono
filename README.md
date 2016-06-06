@@ -1,8 +1,8 @@
 # Jekyll-Mono
 
-Jekyll-Mono is a simple and elegant Github Profile cum Blog theme based on Barry Clark's [Jekyll-Now]("https://github.com/barryclark/jekyll-now"). It's a result of my attempt to learn Jekyll and create a minimalistic theme to put up my CV alongwith some blog posts.
+Jekyll-Mono is a simple and elegant Github Profile cum Blog theme based on Barry Clark's [Jekyll-Now](https://github.com/barryclark/jekyll-now). It's a result of my attempt to learn Jekyll and create a minimalistic theme to put up my CV alongwith some blog posts.
 
-It's crafted with 💙 by [Akshay Agarwal](https://github.com/AkshayAgarwal007).
+It is crafted with 💙 by [Akshay Agarwal](https://github.com/AkshayAgarwal007).
 
 ![Jekyll-Mono Home Page](/images/ss.png)
 
@@ -60,7 +60,7 @@ Publish your first blog post by editing /_posts/2016-03-06-Eternal-Lorem-Ipsum.m
 
 ![Post](/images/post.PNG)
 
-To create a post just click + icon in /_posts/. Create a new file with the following naming convention: **year-month-day-title.md**. Also make sure to include the front-matter at the top of each new blog post.
+To create a post just click on create new file button in /_posts/. Create a new file with the following naming convention: **year-month-day-title.md**. Also make sure to include the front-matter at the top of each new blog post.
 
 You can see the front matter at the top of /_posts/2016-03-06-Eternal-Lorem-Ipsum.md. It looks something like this. You have to change the title and author according to your post. The layout will remain the same.
 
@@ -85,30 +85,41 @@ You can see the live demo of this theme at http://akshayagarwal007.github.io/Jek
 
 ## Local Development
 
+For setting up your development environment you can follow the official Jekyll [Documentation](https://jekyllrb.com/docs/installation/). It's a little bit complicated for Windows users. Let's see how it's done on windows:
 
+1. Install **[Chocolatey](https://chocolatey.org)**. Chocolatey is a package manager for windows. It's awesome. 
+   Install a command propmt with administrator access. Paste this
+   
+   ```
+   @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
+   
+   ```
+   Hit Enter and restart the command prompt.
+   
+2. Install Ruby : In your command prompt type `choco install ruby -y`.
+ Hit Enter. After installation restart the cmd.
 
+3. Install Jekyll/Sass (plug-ins used by Github Pages): `gem install github-pages`
 
+4. Clone your fork of Jekyll-Mono `git clone https://github.com/yourusername/yourusername.github.io.git`
 
-### Linux Users
+5. Serve the site by `jekyll serve`. It regenerates itself after any changes has been made.
 
-### Windows Users
+6. View your site at http://localhost:4000.
 
-* Install Chocolately
+7. If you make any changes to _config.yml you'll need to rebuild the site using `jekyll build` and then again a `jekyll serve` to serve it. You'll need to do a rebuild only if you want to see the changes locally, else you can simply commit your changes and push them to your Github repo, Github pages will rebuild and serve your website.
+   
+   
 
-
-
-## Jekyll-Mono Features
-
-Since Jekyll-Mono is based on Jekyll-Now it retains most of the features of the latter.
  
 
 ## Credits
 
-* [Barry Clark](https://github.com/barryclark) for creating Jekyll-Now
-* [Manoela Ilic] of Codrops
-* David Miller of Blackrock Digital
-* Jekyll
-* Font-Awesome
+* [Barry Clark](https://github.com/barryclark) for creating [Jekyll-Now](https://github.com/barryclark/jekyll-now)
+* [Manoela Ilic](https://github.com/crnacura) of Codrops
+* [David Miller](https://github.com/davidtmiller) of Blackrock Digital
+* [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creator and contributors.
+* [Font-Awesome](http://fontawesome.io) - Thanks to its creator and contributors.
 
 ## Contributing
 
@@ -118,10 +129,8 @@ Since Jekyll-Mono is based on Jekyll-Now it retains most of the features of the 
 
 ## License
 
-Jekyll-Mono is licensed under MIT.
-___
+Jekyll-Mono is licensed under [MIT](https://github.com/AkshayAgarwal007/Jekyll-Mono/blob/master/LICENSE.txt).
 
-Developed and maintained by [Akshay Agarwal](mailto:agarwal.akshay.akshay8@gmail.com). Any suggestions are welcomed.
 
 
 
