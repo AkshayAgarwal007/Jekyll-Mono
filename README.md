@@ -77,7 +77,6 @@ author: Author Name
 
 In the parent folder you'll find about.md and projects.md. These are templates for helping you to set up your biodata/CV and projects that will be available at yourusername.github.io/about and yourusername.github.io/projects respectively. Again you can edit it in Markdown on Github or using Prose as per your choice.
 
-    
 
 ## Demo
 
@@ -98,19 +97,15 @@ For setting up your development environment you can follow the official Jekyll [
 2. **Install Ruby** : In your command prompt type `choco install ruby -y`.
  Hit Enter. After installation restart the cmd with administrator privileges.
 
-3. Install Jekyll/Sass (plug-ins used by Github Pages): `gem install github-pages`
+3. **Install Jekyll/Sass (plug-ins used by Github Pages)**: `gem install github-pages`
 
-4. Clone your fork of Jekyll-Mono `git clone https://github.com/yourusername/yourusername.github.io.git`
+4. **Clone your fork of Jekyll-Mono** `git clone https://github.com/yourusername/yourusername.github.io.git`
 
-5. Serve the site by `jekyll serve`. It regenerates itself after any changes has been made.
+5. **Serve the site** by `jekyll serve`. It regenerates itself after any changes has been made.
 
-6. View your site at http://localhost:4000.
+6. **View your site** at http://127.0.0.1:4000/
 
 7. If you make any changes to _config.yml you'll need to rebuild the site using `jekyll build` and then again a `jekyll serve` to serve it. You'll need to do a rebuild only if you want to see the changes locally, else you can simply commit your changes and push them to your Github repo, Github pages will rebuild and serve your website.
-   
-   
-
- 
 
 ## Credits
 
