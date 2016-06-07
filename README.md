@@ -1,6 +1,6 @@
 # Jekyll-Mono
 
-Jekyll-Mono is a simple and elegant Github Profile cum Blog theme based on Barry Clark's [Jekyll-Now](https://github.com/barryclark/jekyll-now). It's a result of my attempt to learn Jekyll and create a minimalistic theme to put up my CV alongwith some blog posts.
+**Jekyll-Mono** is a simple and elegant Github Profile cum Blog theme based on Barry Clark's [Jekyll-Now](https://github.com/barryclark/jekyll-now). It's a result of my attempt to learn **Jekyll** and create a minimalistic theme to put up my CV alongwith some blog posts.
 
 It is crafted with 💙 by [Akshay Agarwal](https://github.com/AkshayAgarwal007).
 
@@ -18,7 +18,7 @@ Let's quickly set up your new blog in a matter of minutes.
 
 ### Fork this repository
 
-Hit the “Fork” button in the top-right corner of the repository to fork a copy of this theme to your GitHub account and rename it to yourusername.github.io and then visit https://yourusername.github.io and you'll be able to see your newly created blog using Jekyll-Mono.
+Hit the “Fork” button in the top-right corner of the repository to fork a copy of this theme to your GitHub account and rename it to **yourusername.github.io** and then visit https://yourusername.github.io and you'll be able to see your newly created blog using Jekyll-Mono.
 
 ### Customise Jekyll-Mono
 
@@ -51,7 +51,7 @@ Have a look at Jekyll-Mono with four different main theme colors.
  
 ![Jekyll Mono in 4 different colors](/images/ss-color.png)
 
-Finally you need to set up your avatar. Pick up your avatar, resize it to 220x220px simply using paint or any editor of your choice and upload it to the images folder. Now in _variables.scss, you'll see something like this `$avatar: "images/avatar.jpg";`. Here change the avatar.jpg to what you have uploaded just now.
+Finally you need to set up your avatar. Pick up your avatar, resize it to 220x220px simply using paint or any editor of your choice and upload it to the images folder. Now open _variables.scss, you'll see something like this `$avatar: "/images/avatar.jpg";`. Here change the avatar.jpg to what you have uploaded just now.
 
 
 ### Start Blogging
@@ -75,7 +75,7 @@ author: Author Name
 
 ### About and Projects Page
 
-In the parent folder you'll find about.md and projects.md. These are templates for helping you to set up your biodata/CV and projects that will be available at yourusername.github.io/about and yourusername.github.io/projects respectively. Again you can edit it in Markdown on Github or using Prose according to your choice.
+In the parent folder you'll find about.md and projects.md. These are templates for helping you to set up your biodata/CV and projects that will be available at yourusername.github.io/about and yourusername.github.io/projects respectively. Again you can edit it in Markdown on Github or using Prose as per your choice.
 
     
 
@@ -87,17 +87,16 @@ You can see the live demo of this theme at http://akshayagarwal007.github.io/Jek
 
 For setting up your development environment you can follow the official Jekyll [Documentation](https://jekyllrb.com/docs/installation/). It's a little bit complicated for Windows users. Let's see how it's done on windows:
 
-1. Install **[Chocolatey](https://chocolatey.org)**. Chocolatey is a package manager for windows. It's awesome. 
-   Install a command propmt with administrator access. Paste this
+1. **Install Chocolatey**. **[Chocolatey](https://chocolatey.org)** is a package manager for windows. It's awesome. 
+   Open a command propmt with administrator access. Paste this. Hit Enter and restart the command prompt.
    
    ```
    @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
    
    ```
-   Hit Enter and restart the command prompt.
-   
-2. Install Ruby : In your command prompt type `choco install ruby -y`.
- Hit Enter. After installation restart the cmd.
+
+2. **Install Ruby** : In your command prompt type `choco install ruby -y`.
+ Hit Enter. After installation restart the cmd with administrator privileges.
 
 3. Install Jekyll/Sass (plug-ins used by Github Pages): `gem install github-pages`
 
@@ -115,16 +114,16 @@ For setting up your development environment you can follow the official Jekyll [
 
 ## Credits
 
-* [Barry Clark](https://github.com/barryclark) for creating [Jekyll-Now](https://github.com/barryclark/jekyll-now)
-* [Manoela Ilic](https://github.com/crnacura) of Codrops
-* [David Miller](https://github.com/davidtmiller) of Blackrock Digital
+* [Barry Clark](https://github.com/barryclark) for creating [Jekyll-Now](https://github.com/barryclark/jekyll-now) on which this theme is based.
+* [Manoela Ilic](https://github.com/crnacura) of Codrops for writing awesome articles on web design.
+* [David Miller](https://github.com/davidtmiller) of Blackrock Digital for making awesome open source themes.
 * [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creator and contributors.
 * [Font-Awesome](http://fontawesome.io) - Thanks to its creator and contributors.
 
 ## Contributing
 
-* Found a bug? Report it on GitHub [Issues](https://github.com/AkshayAgarwal007/Moodly/issues) and include a code sample.
-* [Fork](https://github.com/AkshayAgarwal007/Jekyll-Mono/issues#fork-destination-box) the repository and start building your own site using it. Probably the best way you can contribute :)
+* Found a bug? Report it on GitHub [Issues](https://github.com/AkshayAgarwal007/Jekyll-Mono/issues) and include a code sample.
+* [Fork](https://github.com/AkshayAgarwal007/Jekyll-Mono) the repository and start your own blog using it and let me know about it so that I can include a reference to it here. Probably the best way you can contribute :)
 * If you find anything that's wrong or want to talk to me about anything related to this theme or want to contribute in any way, please feel free to [mail me](mailto:agarwal.akshay.akshay8@gmail.com).
 
 ## License
