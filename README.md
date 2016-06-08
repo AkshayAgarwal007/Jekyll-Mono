@@ -1,6 +1,6 @@
 # Jekyll-Mono
 
-**Jekyll-Mono** is a simple and elegant Github Profile cum Blog theme based on Barry Clark's [Jekyll-Now](https://github.com/barryclark/jekyll-now). It's a result of my attempt to learn **Jekyll** and create a minimalistic theme to put up my CV alongwith some blog posts.
+**Jekyll-Mono** is a simple and elegant GitHub Profile cum Blog theme based on Barry Clark's [Jekyll-Now](https://github.com/barryclark/jekyll-now). It's a result of my attempt to learn **Jekyll** and create a minimalistic theme to put up my CV alongwith some blog posts.
 
 It is crafted with 💙 by [Akshay Agarwal](https://github.com/AkshayAgarwal007).
 
@@ -9,7 +9,7 @@ It is crafted with 💙 by [Akshay Agarwal](https://github.com/AkshayAgarwal007)
 
 ## What is Jekyll?
 
-It is a static site generator. It takes your content written in Markdown, passes it through your templates and spits it out as a complete static website, ready to be served using Github pages for free.
+It is a static site generator. It takes your content written in Markdown, passes it through your templates and spits it out as a complete static website, ready to be served using GitHub pages for free.
 Because your entire blog is static it serves and perform faster. It consumes less web resources namely memory and I/O.
 
 ## Getting Started
@@ -75,7 +75,7 @@ author: Author Name
 
 ### About and Projects Page
 
-In the parent folder you'll find about.md and projects.md. These are templates for helping you to set up your biodata/CV and projects that will be available at yourusername.github.io/about and yourusername.github.io/projects respectively. Again you can edit it in Markdown on Github or using Prose as per your choice.
+In the parent folder you'll find about.md and projects.md. These are templates for helping you to set up your biodata/CV and projects that will be available at yourusername.github.io/about and yourusername.github.io/projects respectively. Again you can edit it in Markdown on GitHub or using Prose as per your choice.
 
 
 ## Demo
@@ -97,7 +97,7 @@ For setting up your development environment you can follow the official Jekyll [
 2. **Install Ruby** : In your command prompt type `choco install ruby -y`.
  Hit Enter. After installation restart the cmd with administrator privileges.
 
-3. **Install Jekyll/Sass (plug-ins used by Github Pages)**: `gem install github-pages`
+3. **Install Jekyll/Sass (plug-ins used by GitHub Pages)**: `gem install github-pages`
 
 4. **Clone your fork of Jekyll-Mono** `git clone https://github.com/yourusername/yourusername.github.io.git`
 
@@ -105,7 +105,7 @@ For setting up your development environment you can follow the official Jekyll [
 
 6. **View your site** at http://127.0.0.1:4000/
 
-7. If you make any changes to _config.yml you'll need to rebuild the site using `jekyll build` and then again a `jekyll serve` to serve it. You'll need to do a rebuild only if you want to see the changes locally, else you can simply commit your changes and push them to your Github repo, Github pages will rebuild and serve your website.
+7. If you make any changes to _config.yml you'll need to rebuild the site using `jekyll build` and then again a `jekyll serve` to serve it. You'll need to do a rebuild only if you want to see the changes locally, else you can simply commit your changes and push them to your GitHub repo, GitHub pages will rebuild and serve your website.
 
 ## Credits
 
