@@ -118,7 +118,7 @@ For setting up your development environment you can follow the official Jekyll [
 ## Contributing
 
 * Found a bug? Report it on GitHub [Issues](https://github.com/AkshayAgarwal007/Jekyll-Mono/issues) and include a code sample.
-* [Fork](https://github.com/AkshayAgarwal007/Jekyll-Mono) the repository and start your own blog using it and let me know about it so that I can include a reference to it here. Probably the best way you can contribute :)
+* [Fork](https://github.com/AkshayAgarwal007/Jekyll-Mono/fork) the repository and start your own blog using it and let me know about it so that I can include a reference to it here. Probably the best way you can contribute :)
 * If you find anything that's wrong or want to talk to me about anything related to this theme or want to contribute in any way, please feel free to [mail me](mailto:agarwal.akshay.akshay8@gmail.com).
 
 ## License
