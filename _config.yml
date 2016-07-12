@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Username
+name: Max Liko
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description: I blog about my internship and my tasks at Crate.io.
 
 
 #
@@ -16,15 +16,10 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
-  facebook:
-  flickr:
-  github: AkshayAgarwal007
-  instagram:
-  linkedin: akshay-agarwal-782018a4
-  pinterest:
+  email: max@crate.io
+  facebook: crate.io
+  github: MaxLiko
   rss: # just type anything here for a working RSS icon
-  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -39,7 +34,7 @@ google_analytics:
 
 # Your website URL (e.g. http://akshayagarwal007.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://crate.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
