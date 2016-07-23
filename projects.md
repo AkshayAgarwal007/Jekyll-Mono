@@ -18,7 +18,6 @@ permalink: /projects/
 
 ### Data on [CANFAR](http://www.canfar.net/)
 
-http://irsa.ipac.caltech.edu/data/SPITZER/M31IRAC
 * [Pauline](http://www.canfar.phys.uvic.ca/vosui/#/pbarmby/)
 * [Masoud](http://www.canfar.phys.uvic.ca/vosui/#/mrafiei)
 * [Neven](http://www.canfar.phys.uvic.ca/vosui/#/nvulic)
