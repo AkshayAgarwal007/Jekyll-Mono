@@ -31,7 +31,7 @@ Find my webpage [here](https://sites.google.com/site/rahmanisahar/) and publicat
 
 # Group alumni
 
-## Neven Vulic (PhD 2016)
+## Neven Vulic (PhD 2016, MSc 2012)
 
 Soon to be at NASA-Goddard.
 
@@ -47,7 +47,23 @@ Now at University of Waterloo.
 
 Now at CEA-Saclay, France. [Sophia's publications](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Lianou%2C%20S%22&sort=date%20desc%2C%20bibcode%20desc)
 
-## Dimuthu Hemachandra (MSc 2015)
+## Dimuthu Hemachandra (MSc 2014)
 
 Find Dimuthu [here](https://ca.linkedin.com/in/dimuthu-hemachandra-2465571b) and his
 [publications here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Hemachandra%2C%20D%22&sort=date%20desc%2C%20bibcode%20desc)
+
+## Andrea Hidalgo Valadez (Mitacs Globalink, 2014)
+
+Now at INAOE, Mexico.
+
+## Gabe Keenleyside (BSc 2014)
+
+## Mitchell Croley (MSc 2013)
+
+## Judi Agar (MSc 2012)
+
+## Ghazal Farhani (MSc 2012)
+
+Now PhD student in Western Physics & Astronomy Purple Crow Lidar group.
+
+## Roger Odell (BSc 2012)
