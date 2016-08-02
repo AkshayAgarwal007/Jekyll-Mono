@@ -7,6 +7,7 @@ permalink: /people/
 # Current group members
 
 ## Pauline Barmby
+![P. Barmby, credit: H. Leparskas]({{ site.url }}/images/pauline.jpg)
 
 My current research focuses on nearby galaxies, particularly the Andromeda galaxy (M31) and
 other galaxies in our Local Group. I've used quite a few different telescopes and instruments, with a lot of emphasis on infrared observations with the [Spitzer Space Telescope](http://ssc.caltech.edu). My group has studied star-forming regions, star formation laws, polycyclic aromatic hydrocarbons, and X-ray emitting star clusters in M31, among other topics.
