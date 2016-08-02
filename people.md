@@ -6,7 +6,7 @@ permalink: /people/
 
 # Current group members
 
-## Pauline Barmby
+## Pauline Barmby (group leader)
 ![P. Barmby, credit: H. Leparskas]({{ site.url }}/images/pauline.jpg)
 
 My current research focuses on nearby galaxies, particularly the Andromeda galaxy (M31) and
@@ -19,6 +19,8 @@ Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [
 
 ## Robin Arnason (PhD student)
 
+![]({{ site.url }}/images/robin.jpg)
+
 I'm interested in the details of the formation and evolution of binary systems that have a compact object (white dwarf, neutron star, and black hole) inside our Galaxy. Studying compact object binaries is difficult in the Milky Way, where there is a lot of uncertainty about the distance, age, and metal content of stellar populations, so we often use globular clusters or nearby galaxies instead. In the past, I've investigated the [unusual properties of a very faint X-ray binary in the globular cluster M15](http://arxiv.org/abs/1505.07117). Currently, I am conducting a survey of the X-ray binaries in the Sculptor Dwarf spheroidal Galaxy. Like the globular clusters, dwarf galaxies tend to be relatively simple in terms of having one distance, age, and metallicity.
 However, they are much better than globular clusters at representing binary evolution in an environment similar to the Milky Way, since they don't have the same high stellar density.
 
@@ -28,16 +30,18 @@ However, they are much better than globular clusters at representing binary evol
 
 ## Sahar Rahmani (PhD student)
 
-Find my webpage [here](https://sites.google.com/site/rahmanisahar/) and publications [here](author:"Rahmani, S" AND  author:"Barmby")
+Find Sahar's webpage [here](https://sites.google.com/site/rahmanisahar/) and publications [here](author:"Rahmani, S" AND  author:"Barmby").
 
-# Group alumni
+# Recent alumni
 
 ## Neven Vulic (PhD 2016, MSc 2012)
 
-Soon to be at NASA-Goddard.
+![]({{ site.url }}/images/neven.jpg)
+
+Now at NASA-Goddard.
 
 I am interested in the X-ray populations of nearby galaxies (M31, M51, etc.), specifically X-ray binary systems. What are the impact of various environmental parameters on the formation and evolution of X-ray sources? In addition, I study the characteristics of X-ray populations, such as physical/flux distributions and variability, to investigate their connection with galaxy properties.
-Find my webpage [here](http://astro.uwo.ca/~nvulic/) and publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Vulic%2C%20N%22&sort=date%20desc%2C%20bibcode%20desc)
+Find my webpage [here](http://astro.uwo.ca/~nvulic/) and publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Vulic%2C%20N%22&sort=date%20desc%2C%20bibcode%20desc).
 
 ## Masoud Rafiei Ravandi (MSc 2015)
 
@@ -53,7 +57,7 @@ Now at CEA-Saclay, France. [Sophia's publications](https://ui.adsabs.harvard.edu
 Find Dimuthu [here](https://ca.linkedin.com/in/dimuthu-hemachandra-2465571b) and his
 [publications here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Hemachandra%2C%20D%22&sort=date%20desc%2C%20bibcode%20desc)
 
-## Andrea Hidalgo Valadez (Mitacs Globalink, 2014)
+## Andrea Hidalgo Valadez (BSc, Mitacs Globalink 2014)
 
 Now at INAOE, Mexico.
 
