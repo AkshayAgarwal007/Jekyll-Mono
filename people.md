@@ -1,10 +1,8 @@
 ---
 layout: page
-title: People
+title:  Current group members 
 permalink: /people/
 ---
-
-# Current group members
 
 ## Pauline Barmby (group leader)
 ![P. Barmby, credit: H. Leparskas]({{ site.url }}/images/pauline.jpg)
@@ -72,3 +70,8 @@ Now at INAOE, Mexico.
 Now PhD student in Western Physics & Astronomy Purple Crow Lidar group.
 
 ## Roger Odell (BSc 2012)
+
+# Colleagues
+
+We collaborate with several other research groups in our department including those of [Sarah Gallagher](http://www.astro.uwo.ca/%7esgall/index.html)
+and [Els Peeters](http://www.astro.uwo.ca/%7eepeeters/). Some of us are also members of Western's [Center for Planetary Science & Exploration](http://www.cpsx.uwo.ca).
