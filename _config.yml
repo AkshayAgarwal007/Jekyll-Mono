@@ -4,11 +4,11 @@
 
 # Name of your site (displayed in the header)
 
-name: Your Username
+name: 付晓青
 
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description: 我的个人网站
 
 
 #
@@ -18,12 +18,12 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
+  email: 
   facebook:
   flickr:
-  github: AkshayAgarwal007
+  github: 
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-64882818-3
+google_analytics: 
 
 # Your website URL (e.g. http://akshayagarwal007.github.io)
 # Used for Sitemap.xml and your RSS feed
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/Jekyll-Mono"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
