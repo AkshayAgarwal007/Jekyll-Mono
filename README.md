@@ -53,6 +53,10 @@ Have a look at Jekyll-Mono with four different main theme colors.
 
 Finally you need to set up your avatar. Pick up your avatar, resize it to 220x220px simply using paint or any editor of your choice and upload it to the images folder. Now open _variables.scss, you'll see something like this `$avatar: "/images/avatar.jpg";`. Here change the avatar.jpg to what you have uploaded just now.
 
+> If you're hosting your site at a Project repository on GitHub pages (http://yourusername.github.io/repository-name) and NOT your User repository (http://yourusername.github.io) then you need to change the following
+* In `_config.yml` under `baseurl:` add in the baseurl like this: "/repository-name"
+* In `_sass/_variables.scss` change `$avatar:` to "/repository-name/images/avatar.jpg";
+* In line 201 of `_sass/_jekyll-mono.scss`, append `/repository-name`
 
 ### Start Blogging
 
