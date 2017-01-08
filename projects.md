@@ -4,6 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
+You can find out more about what we're up to by checking out our code, presentations
+and data!
+
 ### Find us on [GitHub](https://github.com/)
 
 * [Pauline](https://github.com/PBarmby)
