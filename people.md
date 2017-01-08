@@ -44,20 +44,20 @@ of point sources in a nearby galaxy. FInd an abstract for his conference present
 
 ![]({{ site.url }}/images/neven.jpg)
 
-Now a Postdoctoral Associate [at NASA's Goddard Space Flight Center](https://science.gsfc.nasa.gov/sed/bio/neven.vulic).
+[Neven]((https://science.gsfc.nasa.gov/sed/bio/neven.vulic) is interested in the X-ray populations of nearby galaxies (M31, M51, etc.), specifically X-ray binary systems. What are the impact of various environmental parameters on the formation and evolution of X-ray sources? In addition, he studies the characteristics of X-ray populations, such as physical/flux distributions and variability, to investigate their connection with galaxy properties.
+He is now a Postdoctoral Associate at NASA's Goddard Space Flight Center.
 
-Neven is interested in the X-ray populations of nearby galaxies (M31, M51, etc.), specifically X-ray binary systems. What are the impact of various environmental parameters on the formation and evolution of X-ray sources? In addition, he studies the characteristics of X-ray populations, such as physical/flux distributions and variability, to investigate their connection with galaxy properties.
 Find his Western webpage [here](http://astro.uwo.ca/~nvulic/), PhD thesis [here](http://ir.lib.uwo.ca/etd/3802/).
 publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Vulic%2C%20N%22&sort=date%20desc%2C%20bibcode%20desc).
 
 ## Masoud Rafiei Ravandi (MSc 2015)
 
-Now at University of Waterloo.
-[Masoud's publications](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rafiei%20Ravandi%2C%20M%22&sort=date%20desc%2C%20bibcode%20desc)
+[Masoud](https://www.perimeterinstitute.ca/people/masoud-rafiei-ravandi) studied the mid-infrared halo of the Andromeda galaxy.
+He is now a PhD student at the University of Waterloo and Perimeter Institute. Find Masoud's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rafiei%20Ravandi%2C%20M%22&sort=date%20desc%2C%20bibcode%20desc).
 
-## Sophia Lianou (PDF 2012-15)
+## Sophia Lianou (PDF 2012-2015)
 
-Now at CEA-Saclay, France. [Sophia's publications](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Lianou%2C%20S%22&sort=date%20desc%2C%20bibcode%20desc)
+[Sophia](https://www.linkedin.com/in/lianou)'s research is on multi-wavelength studies of star formation in nearby galaxies. She is now a postdoc at CEA-Saclay, France. Find Sophia's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Lianou%2C%20S%22&sort=date%20desc%2C%20bibcode%20desc).
 
 ## Dimuthu Hemachandra (MSc 2014)
 
@@ -71,7 +71,12 @@ his MSc thesis paper [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22
 
 ## Gabe Keenleyside (BSc 2014)
 
+Gabe's research involved precisely locating an X-ray binary within [a star cluster in M31]
+(http://physics.uwo.ca/undergraduate/current_students/2014_pa_undergraduate_honors_thesis.html).
+
 ## Mitchell Croley (MSc 2013)
+
+[Mitchell](https://ca.linkedin.com/in/mitchell-croley-779a30108) measured the metallicity gradient in M31 HII regions. He is now working as a data analyst in industry.
 
 ## Judi Agar (MSc 2012)
 
@@ -83,6 +88,10 @@ his MSc thesis paper [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22
 PhD student in atmospheric physics in the Western Physics & Astronomy [Purple Crow Lidar](http://pcl.physics.uwo.ca/) group.
 
 ## Roger Odell (BSc 2012)
+
+[Roger](https://physics.carleton.ca/people/graduate-students/roger-odell) investigated the use of machine learning algorithms in classifying
+[colours of objects measured with the Spitzer Space Telescope](http://conference.astro.ufl.edu/STARSTOGALAXIES/science_final/talks/barmby_p.pdf).
+He is now an MSc student in particle physics at Carleton University.
 
 # Colleagues
 
