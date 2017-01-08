@@ -26,17 +26,21 @@ However, they are much better than globular clusters at representing binary evol
 
 ## Alex Kiar (BESc/HBA 2018; USRA 2016)
 
+![]({{ site.url }}/images/alex.jpg)
+
 [Alex](https://ca.linkedin.com/in/alexkiar)'s research involves the use of clustering algorithm in analysis of a multi-wavelength astronomical catalog
-of point sources in a nearby galaxy. FInd an abstract for his conference presentation on this work [here](http://www.casi.ca/casi/wp-content/uploads/2016/06/Abstract-book-draft-6-complete.pdf).
+of point sources in a nearby galaxy. FInd an abstract for his conference presentation on this work [here](http://www.casi.ca/casi/wp-content/uploads/2016/06/Abstract-book-draft-6-complete.pdf). He doesn't usually wear a suit.
 
 ## Sachi Elkerton (BSc 2017)
+
+![]({{ site.url }}/images/sachi.jpg)
 
 [Sachi](https://www.linkedin.com/in/sachi-elkerton-b55434129)'s thesis research is on mass-losing dusty stars in nearby
 [dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group).
 
 # Recent alumni
 
-![Neven, Pauline and Sahar on Convocation day]({{ site.url }}/images/pb_sr_nv_grad.jpg)
+![Neven, Pauline and Sahar on Convocation day, fall 2016]({{ site.url }}/images/pb_sr_nv_grad.jpg)
 
 ## Sahar Rahmani (PhD 2016)
 
@@ -44,7 +48,7 @@ of point sources in a nearby galaxy. FInd an abstract for his conference present
 
 ## Neven Vulic (PhD 2016, MSc 2012)
 
-[Neven]((https://science.gsfc.nasa.gov/sed/bio/neven.vulic) is interested in the X-ray populations of nearby galaxies (M31, M51, etc.), specifically X-ray binary systems. What are the impact of various environmental parameters on the formation and evolution of X-ray sources? In addition, he studies the characteristics of X-ray populations, such as physical/flux distributions and variability, to investigate their connection with galaxy properties.
+[Neven](https://science.gsfc.nasa.gov/sed/bio/neven.vulic) is interested in the X-ray populations of nearby galaxies (M31, M51, etc.), specifically X-ray binary systems. What are the impact of various environmental parameters on the formation and evolution of X-ray sources? In addition, he studies the characteristics of X-ray populations, such as physical/flux distributions and variability, to investigate their connection with galaxy properties.
 He is now a Postdoctoral Associate at NASA's Goddard Space Flight Center.
 
 Find his Western webpage [here](http://astro.uwo.ca/~nvulic/), PhD thesis [here](http://ir.lib.uwo.ca/etd/3802/).
@@ -56,6 +60,8 @@ publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Vulic%2C
 He is now a PhD student at the University of Waterloo and Perimeter Institute. Find Masoud's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rafiei%20Ravandi%2C%20M%22&sort=date%20desc%2C%20bibcode%20desc).
 
 ## Sophia Lianou (PDF 2012-2015)
+
+![]({{ site.url }}/images/sophia.jpg)
 
 [Sophia](https://www.linkedin.com/in/lianou)'s research is on multi-wavelength studies of star formation in nearby galaxies. She is now a postdoc at CEA-Saclay, France. Find Sophia's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Lianou%2C%20S%22&sort=date%20desc%2C%20bibcode%20desc).
 
