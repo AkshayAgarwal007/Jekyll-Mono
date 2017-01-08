@@ -38,10 +38,12 @@ of point sources in a nearby galaxy. FInd an abstract for his conference present
 
  &nbsp; 
 
+&nbsp; 
 
 # Recent alumni
 
 ![Neven, Pauline and Sahar on Convocation day, fall 2016]({{ site.url }}/images/pb_sr_nv_grad.jpg)
+Neven, Pauline and Sahar on Convocation day, fall 2016
 
 ## Sahar Rahmani (PhD 2016)
 
@@ -68,6 +70,8 @@ He is now a PhD student at the University of Waterloo and Perimeter Institute. F
 
 <img align="right" src="{{ site.url }}/images/sophia.jpg">
 [Sophia](https://www.linkedin.com/in/lianou)'s research is on multi-wavelength studies of star formation in nearby galaxies. She is now a postdoc at CEA-Saclay, France. Find Sophia's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Lianou%2C%20S%22&sort=date%20desc%2C%20bibcode%20desc).
+
+&nbsp;
 
 ## Dimuthu Hemachandra (MSc 2014)
 
