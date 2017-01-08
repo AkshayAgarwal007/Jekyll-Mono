@@ -110,4 +110,5 @@ He is now an MSc student in particle physics at Carleton University.
 # Colleagues
 
 We collaborate with several other research groups in our department including those of [Sarah Gallagher](http://www.astro.uwo.ca/%7esgall/index.html)
-and [Els Peeters](http://www.astro.uwo.ca/%7eepeeters/). Some of us are also members of Western's [Center for Planetary Science & Exploration](http://www.cpsx.uwo.ca).
+and [Els Peeters](http://www.astro.uwo.ca/%7eepeeters/), and form part of Western's [extragalactic journal club](https://sites.google.com/site/uwoejc/).
+We're also part of Western's [Center for Planetary Science & Exploration](http://www.cpsx.uwo.ca).
