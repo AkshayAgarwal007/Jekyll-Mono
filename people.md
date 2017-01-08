@@ -51,10 +51,12 @@ of point sources in a nearby galaxy. FInd an abstract for his conference present
 [Neven](https://science.gsfc.nasa.gov/sed/bio/neven.vulic) is interested in the X-ray populations of nearby galaxies (M31, M51, etc.), specifically X-ray binary systems. What are the impact of various environmental parameters on the formation and evolution of X-ray sources? In addition, he studies the characteristics of X-ray populations, such as physical/flux distributions and variability, to investigate their connection with galaxy properties.
 He is now a Postdoctoral Associate at NASA's Goddard Space Flight Center.
 
-Find his Western webpage [here](http://astro.uwo.ca/~nvulic/), PhD thesis [here](http://ir.lib.uwo.ca/etd/3802/).
+Find his Western webpage [here](http://astro.uwo.ca/~nvulic/), PhD thesis [here](http://ir.lib.uwo.ca/etd/3802/) and
 publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Vulic%2C%20N%22&sort=date%20desc%2C%20bibcode%20desc).
 
 ## Masoud Rafiei Ravandi (MSc 2015)
+
+![]({{ site.url }}/images/masoud.jpg)
 
 [Masoud](https://www.perimeterinstitute.ca/people/masoud-rafiei-ravandi) studied the mid-infrared halo of the Andromeda galaxy.
 He is now a PhD student at the University of Waterloo and Perimeter Institute. Find Masoud's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rafiei%20Ravandi%2C%20M%22&sort=date%20desc%2C%20bibcode%20desc).
@@ -77,8 +79,7 @@ his MSc thesis paper [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22
 
 ## Gabe Keenleyside (BSc 2014)
 
-Gabe's research involved precisely locating an X-ray binary within [a star cluster in M31]
-(http://physics.uwo.ca/undergraduate/current_students/2014_pa_undergraduate_honors_thesis.html).
+Gabe's research involved precisely locating an X-ray binary within [a star cluster in M31](http://physics.uwo.ca/undergraduate/current_students/2014_pa_undergraduate_honors_thesis.html).
 
 ## Mitchell Croley (MSc 2013)
 
