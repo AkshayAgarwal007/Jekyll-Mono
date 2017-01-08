@@ -26,10 +26,11 @@ However, they are much better than globular clusters at representing binary evol
 
 ## Alex Kiar (BESc/HBA 2018; USRA 2016)
 
-![]({{ site.url }}/images/alex.jpg)
-
+<img align="right" src="images/alex.jpg">
 [Alex](https://ca.linkedin.com/in/alexkiar)'s research involves the use of clustering algorithm in analysis of a multi-wavelength astronomical catalog
 of point sources in a nearby galaxy. FInd an abstract for his conference presentation on this work [here](http://www.casi.ca/casi/wp-content/uploads/2016/06/Abstract-book-draft-6-complete.pdf). He doesn't usually wear a suit.
+
+![]({{ site.url }}/images/alex.jpg)
 
 ## Sachi Elkerton (BSc 2017)
 
