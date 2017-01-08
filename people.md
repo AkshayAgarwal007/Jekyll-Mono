@@ -28,12 +28,15 @@ However, they are much better than globular clusters at representing binary evol
 [Alex](https://ca.linkedin.com/in/alexkiar)'s research involves the use of clustering algorithm in analysis of a multi-wavelength astronomical catalog
 of point sources in a nearby galaxy. FInd an abstract for his conference presentation on this work [here](http://www.casi.ca/casi/wp-content/uploads/2016/06/Abstract-book-draft-6-complete.pdf). He doesn't usually wear a suit.
 
+\ 
 
 ## Sachi Elkerton (BSc 2017)
 
 <img align="right" src="{{ site.url }}/images/sachi.jpg">
 [Sachi](https://www.linkedin.com/in/sachi-elkerton-b55434129)'s thesis research is on mass-losing dusty stars in nearby
 [dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group).
+
+\ 
 
 # Recent alumni
 
