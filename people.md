@@ -14,7 +14,7 @@ the Spitzer/IRAC instrument team and worked on a variety of science topics inclu
 
 Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [blog](http://pbarmby.github.io).
 
-## Robin Arnason (PhD student)
+## Robin Arnason (PhD 2018)
 
 <img align="right" src="{{ site.url }}/images/robin.jpg">
 I'm interested in the details of the formation and evolution of binary systems that have a compact object (white dwarf, neutron star, and black hole) inside our Galaxy. Studying compact object binaries is difficult in the Milky Way, where there is a lot of uncertainty about the distance, age, and metal content of stellar populations, so we often use globular clusters or nearby galaxies instead. In the past, I've investigated the [unusual properties of a very faint X-ray binary in the globular cluster M15](http://arxiv.org/abs/1505.07117). Currently, I am conducting a survey of the X-ray binaries in the Sculptor Dwarf spheroidal Galaxy. Like the globular clusters, dwarf galaxies tend to be relatively simple in terms of having one distance, age, and metallicity.
@@ -43,6 +43,7 @@ of point sources in a nearby galaxy. FInd an abstract for his conference present
 # Recent alumni
 
 ![Neven, Pauline and Sahar on Convocation day, fall 2016]({{ site.url }}/images/pb_sr_nv_grad.jpg)
+
 Neven, Pauline and Sahar on Convocation day, fall 2016
 
 ## Sahar Rahmani (PhD 2016)
