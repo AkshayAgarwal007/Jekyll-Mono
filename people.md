@@ -36,7 +36,8 @@ of point sources in a nearby galaxy. FInd an abstract for his conference present
 [Sachi](https://www.linkedin.com/in/sachi-elkerton-b55434129)'s thesis research is on mass-losing dusty stars in nearby
 [dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group).
 
- 
+ &nbsp; 
+
 
 # Recent alumni
 
@@ -59,6 +60,9 @@ publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Vulic%2C
 <img align="right" src="{{ site.url }}/images/masoud.jpg">
 [Masoud](https://www.perimeterinstitute.ca/people/masoud-rafiei-ravandi) studied the mid-infrared halo of the Andromeda galaxy.
 He is now a PhD student at the University of Waterloo and Perimeter Institute. Find Masoud's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rafiei%20Ravandi%2C%20M%22&sort=date%20desc%2C%20bibcode%20desc).
+
+&nbsp; 
+
 
 ## Sophia Lianou (PDF 2012-2015)
 
