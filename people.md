@@ -24,22 +24,31 @@ However, they are much better than globular clusters at representing binary evol
 
 [Robin's Publications](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Arnason%2C%20R%22&sort=date%20desc%2C%20bibcode%20desc)
 
-## Alex Kiar (Undergrad student)
+## Alex Kiar (BESc/HBA 2018; USRA 2016)
 
-## Sahar Rahmani (PhD student)
+[Alex](https://ca.linkedin.com/in/alexkiar)'s research involves the use of clustering algorithm in analysis of a multi-wavelength astronomical catalog
+of point sources in a nearby galaxy. FInd an abstract for his conference presentation on this work [here](http://www.casi.ca/casi/wp-content/uploads/2016/06/Abstract-book-draft-6-complete.pdf).
 
-Find Sahar's webpage [here](https://sites.google.com/site/rahmanisahar/) and publications [here](author:"Rahmani, S" AND  author:"Barmby").
+## Sachi Elkerton (BSc 2017)
+
+[Sachi](https://www.linkedin.com/in/sachi-elkerton-b55434129)'s thesis research is on mass-losing dusty stars in nearby
+[dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group).
 
 # Recent alumni
+
+## Sahar Rahmani (PhD 2016)
+
+[Sahar's](https://sites.google.com/site/rahmanisahar/) research involves using modern statistical and machine learning techniques to study the star formation rate in external galaxies. Find her publications [here](author:"Rahmani, S" AND  author:"Barmby") and her PhD thesis [here](http://ir.lib.uwo.ca/etd/4061/).
 
 ## Neven Vulic (PhD 2016, MSc 2012)
 
 ![]({{ site.url }}/images/neven.jpg)
 
-Now at NASA-Goddard.
+Now a Postdoctoral Associate [at NASA's Goddard Space Flight Center](https://science.gsfc.nasa.gov/sed/bio/neven.vulic).
 
-I am interested in the X-ray populations of nearby galaxies (M31, M51, etc.), specifically X-ray binary systems. What are the impact of various environmental parameters on the formation and evolution of X-ray sources? In addition, I study the characteristics of X-ray populations, such as physical/flux distributions and variability, to investigate their connection with galaxy properties.
-Find my webpage [here](http://astro.uwo.ca/~nvulic/) and publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Vulic%2C%20N%22&sort=date%20desc%2C%20bibcode%20desc).
+Neven is interested in the X-ray populations of nearby galaxies (M31, M51, etc.), specifically X-ray binary systems. What are the impact of various environmental parameters on the formation and evolution of X-ray sources? In addition, he studies the characteristics of X-ray populations, such as physical/flux distributions and variability, to investigate their connection with galaxy properties.
+Find his Western webpage [here](http://astro.uwo.ca/~nvulic/), PhD thesis [here](http://ir.lib.uwo.ca/etd/3802/).
+publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Vulic%2C%20N%22&sort=date%20desc%2C%20bibcode%20desc).
 
 ## Masoud Rafiei Ravandi (MSc 2015)
 
@@ -52,12 +61,13 @@ Now at CEA-Saclay, France. [Sophia's publications](https://ui.adsabs.harvard.edu
 
 ## Dimuthu Hemachandra (MSc 2014)
 
-Find Dimuthu [here](https://ca.linkedin.com/in/dimuthu-hemachandra-2465571b) and his
-[publications here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Hemachandra%2C%20D%22&sort=date%20desc%2C%20bibcode%20desc)
+[Dimuthu](https://ca.linkedin.com/in/dimuthu-hemachandra-2465571b) studied the Polycyclic Aromatic Hydrocarbons in Andromeda; find
+his MSc thesis paper [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Hemachandra%2C%20D%22&sort=date%20desc%2C%20bibcode%20desc).
+
 
 ## Andrea Hidalgo Valadez (BSc, Mitacs Globalink 2014)
 
-Now at INAOE, Mexico.
+[Andrea](https://www.linkedin.com/in/andreaahidalgov) investigated the use of [clustering algorithms](https://github.com/LaurethTeX/Clustering) in analysis of multi-wavelength astronomical catalogs. She is now an MSc student in astophysical instrumentation at [INAOE, Mexico](http://inaoe.edu.mx).
 
 ## Gabe Keenleyside (BSc 2014)
 
@@ -65,9 +75,12 @@ Now at INAOE, Mexico.
 
 ## Judi Agar (MSc 2012)
 
+[Judi's](https://ca.linkedin.com/in/judi-agar-540787119) research was on the structure of X-ray binary-containing globular clusters in Andromeda; her MSc thesis paper is [here](https://arxiv.org/abs/1308.6748). She is now a high school science and mathematics teacher.
+
 ## Ghazal Farhani (MSc 2012)
 
-Now PhD student in Western Physics & Astronomy Purple Crow Lidar group.
+[Ghazal](https://ca.linkedin.com/in/ghazal-farhani-8bba1a51) studied the HII regions in the nearby galaxy [NGC 5128](http://messier.seds.org/xtra/ngc/n5128.html). She is now a
+PhD student in atmospheric physics in the Western Physics & Astronomy [Purple Crow Lidar](http://pcl.physics.uwo.ca/) group.
 
 ## Roger Odell (BSc 2012)
 
