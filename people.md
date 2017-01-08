@@ -5,8 +5,7 @@ permalink: /people/
 ---
 
 ## Pauline Barmby (group leader)
-![P. Barmby, credit: H. Leparskas]({{ site.url }}/images/pauline.jpg)
-
+<img align="right" src="{{ site.url }}/images/pauline.jpg">
 My current research focuses on nearby galaxies, particularly the Andromeda galaxy (M31) and
 other galaxies in our Local Group. I've used quite a few different telescopes and instruments, with a lot of emphasis on infrared observations with the [Spitzer Space Telescope](http://ssc.caltech.edu). My group has studied star-forming regions, star formation laws, polycyclic aromatic hydrocarbons, and X-ray emitting star clusters in M31, among other topics.
 
@@ -17,8 +16,7 @@ Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [
 
 ## Robin Arnason (PhD student)
 
-![]({{ site.url }}/images/robin.jpg)
-
+<img align="right" src="{{ site.url }}/images/robin.jpg">
 I'm interested in the details of the formation and evolution of binary systems that have a compact object (white dwarf, neutron star, and black hole) inside our Galaxy. Studying compact object binaries is difficult in the Milky Way, where there is a lot of uncertainty about the distance, age, and metal content of stellar populations, so we often use globular clusters or nearby galaxies instead. In the past, I've investigated the [unusual properties of a very faint X-ray binary in the globular cluster M15](http://arxiv.org/abs/1505.07117). Currently, I am conducting a survey of the X-ray binaries in the Sculptor Dwarf spheroidal Galaxy. Like the globular clusters, dwarf galaxies tend to be relatively simple in terms of having one distance, age, and metallicity.
 However, they are much better than globular clusters at representing binary evolution in an environment similar to the Milky Way, since they don't have the same high stellar density.
 
@@ -30,12 +28,10 @@ However, they are much better than globular clusters at representing binary evol
 [Alex](https://ca.linkedin.com/in/alexkiar)'s research involves the use of clustering algorithm in analysis of a multi-wavelength astronomical catalog
 of point sources in a nearby galaxy. FInd an abstract for his conference presentation on this work [here](http://www.casi.ca/casi/wp-content/uploads/2016/06/Abstract-book-draft-6-complete.pdf). He doesn't usually wear a suit.
 
-![]({{ site.url }}/images/alex.jpg)
 
 ## Sachi Elkerton (BSc 2017)
 
-![]({{ site.url }}/images/sachi.jpg)
-
+<img align="right" src="{{ site.url }}/images/sachi.jpg">
 [Sachi](https://www.linkedin.com/in/sachi-elkerton-b55434129)'s thesis research is on mass-losing dusty stars in nearby
 [dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group).
 
@@ -57,15 +53,13 @@ publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Vulic%2C
 
 ## Masoud Rafiei Ravandi (MSc 2015)
 
-![]({{ site.url }}/images/masoud.jpg)
-
+<img align="right" src="{{ site.url }}/images/masoud.jpg">
 [Masoud](https://www.perimeterinstitute.ca/people/masoud-rafiei-ravandi) studied the mid-infrared halo of the Andromeda galaxy.
 He is now a PhD student at the University of Waterloo and Perimeter Institute. Find Masoud's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rafiei%20Ravandi%2C%20M%22&sort=date%20desc%2C%20bibcode%20desc).
 
 ## Sophia Lianou (PDF 2012-2015)
 
-![]({{ site.url }}/images/sophia.jpg)
-
+<img align="right" src="{{ site.url }}/images/sophia.jpg">
 [Sophia](https://www.linkedin.com/in/lianou)'s research is on multi-wavelength studies of star formation in nearby galaxies. She is now a postdoc at CEA-Saclay, France. Find Sophia's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Lianou%2C%20S%22&sort=date%20desc%2C%20bibcode%20desc).
 
 ## Dimuthu Hemachandra (MSc 2014)
