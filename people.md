@@ -36,13 +36,13 @@ of point sources in a nearby galaxy. FInd an abstract for his conference present
 
 # Recent alumni
 
+![Neven, Pauline and Sahar on Convocation day]({{ site.url }}/images/pb_sr_nv_grad.jpg)
+
 ## Sahar Rahmani (PhD 2016)
 
 [Sahar's](https://sites.google.com/site/rahmanisahar/) research involves using modern statistical and machine learning techniques to study the star formation rate in external galaxies. Find her publications [here](author:"Rahmani, S" AND  author:"Barmby") and her PhD thesis [here](http://ir.lib.uwo.ca/etd/4061/).
 
 ## Neven Vulic (PhD 2016, MSc 2012)
-
-![]({{ site.url }}/images/neven.jpg)
 
 [Neven]((https://science.gsfc.nasa.gov/sed/bio/neven.vulic) is interested in the X-ray populations of nearby galaxies (M31, M51, etc.), specifically X-ray binary systems. What are the impact of various environmental parameters on the formation and evolution of X-ray sources? In addition, he studies the characteristics of X-ray populations, such as physical/flux distributions and variability, to investigate their connection with galaxy properties.
 He is now a Postdoctoral Associate at NASA's Goddard Space Flight Center.
