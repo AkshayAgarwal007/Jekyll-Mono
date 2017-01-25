@@ -1,16 +1,16 @@
 ---
 layout: page
-title:  Western Research on Nearby Galaxies group
+title:  Group members
 permalink: /people/
 ---
 
-# Future group members
+# Future 
 
 Interested in joining us? Please contact Pauline.
 
 Potential graduate students: for more information about applying see the web page for the [graduate program in Physics & Astronomy at Western](http://physics.uwo.ca/graduate/index.html).
 
-# Current group members 
+# Current 
 
 ## Pauline Barmby (group leader)
 <img align="right" src="{{ site.url }}/images/pauline.jpg">
