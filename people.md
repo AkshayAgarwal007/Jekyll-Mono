@@ -6,7 +6,7 @@ permalink: /people/
 
 # Future 
 
-We're looking for a [postdoc](({% site_url postdoc-wanted %}))!
+We're looking for a [postdoc]({% site_url postdoc-wanted %})!
 
 Interested in joining us? Please contact Pauline.
 
