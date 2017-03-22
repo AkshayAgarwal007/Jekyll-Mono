@@ -6,6 +6,8 @@ permalink: /people/
 
 # Future 
 
+We're looking for a [postdoc](({% site_url postdoc-wanted %}))!
+
 Interested in joining us? Please contact Pauline.
 
 Potential graduate students: for more information about applying see the web page for the [graduate program in Physics & Astronomy at Western](http://physics.uwo.ca/graduate/index.html).
