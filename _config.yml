@@ -3,10 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Username
+name: LMHD
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description: Instigator of DevOps Shenanigans, API enthusiast, and Recreational Procrastinatrix.
+
+# Short desc, back of avatar
+short_description: Professional Geek
 
 
 #
@@ -16,15 +19,15 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
-  facebook:
+  email: lucy@lucymhdavies.com
+  facebook: lucy.m.h.davies
   flickr:
-  github: AkshayAgarwal007
+  github: lucymhdavies
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: lucy-davies-a3a9aa22
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter: lmhadavies
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -32,14 +35,14 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: lmhd-me
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-96455448-1
 
 # Your website URL (e.g. http://akshayagarwal007.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://lmhd.me
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

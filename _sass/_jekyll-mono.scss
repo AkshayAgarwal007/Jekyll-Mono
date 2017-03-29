@@ -240,6 +240,7 @@ button.button-primary:focus {
 
 .ch-img-1 { 
 	background-image: url(#{$avatar});
+	background-size: cover;
 }
 
 .ch-info h3 {
