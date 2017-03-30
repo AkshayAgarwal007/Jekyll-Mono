@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to Jekyll from iOS
-description: This post edited entirely on my iPad
+title: How to use Jekyll from iOS
+description: This post edited entirely on my iPad, with a bunch of different apps, in my attempt to figure out how best to write posts when away from my laptop.
 author: Lucy
 date: {}
 category: blogging
@@ -67,7 +67,7 @@ This one just has the iOS default keyboard, and again the autocorrect functional
 
 This app is definitely free though, if you don't need private repos, so that's a bonus.
 
-Only other downside is that I can't find any way to move files around, i.e. publish a Jekyll post. Though deleting a file and creating new files is possible, if a hassle.
+It took me a while to figure out, but you can move files, which means you can publish posts. Which is nice.
 
 Also lets me view diffs before committing, which I don't think Source would let me do.
 
