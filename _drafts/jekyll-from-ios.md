@@ -57,16 +57,24 @@ I would like to love this app, but I would need more keyboard behaviour settings
 
 I have listed it as free with a question mark becauase it says that pushing to a remote repo is part of the £4.99 in app purchase, but it looks like that just works in the free version. I suspect the answer is that pushing to other remote repos is the premium feature. Or it could be a bug, because when I try to push without committing at the same time, it prompts me to pay for then in app purchase.
 
-Note to self: contact the dev about keyboard preferences.
+## Git2Go - Free
 
-## Git2Go
+https://appsto.re/gb/5yWB5.i
 
-LINK
+Another full git client. Without looking at it too much, it doesn't appear to have all the git functionality of Source, but I don't need it to.
 
-TODO
+This one just has the iOS default keyboard, and again the autocorrect functionality is nowhere to be seen. But I can send feedback from directly within the app, so I've sent the suggestion to the dev.
+
+This app is definitely free though, if you don't need private repos, so that's a bonus.
+
+Only other downside is that I can't find any way to move files around, i.e. publish a Jekyll post. So that would require a separate app.
+
+Also lets me view diffs before committing, which I don't think Source would let me do.
 
 ## So... what will I use?
 
 TBC
+
+Note to self: contact the devs about keyboard preferences.
 
 [^1]: That alone is interesting to me. I want to see how this app works, because it is obviously doing something odd.
