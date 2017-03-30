@@ -3,7 +3,7 @@ layout: post
 title: How to Jekyll from iOS
 description: This post edited entirely on my iPad
 author: Lucy
-date: 1970-01-01T00:00:00.000Z
+date: {}
 category: blogging
 published: true
 ---
@@ -26,6 +26,21 @@ But it does integrate directly with GitHub, so I save posts and drafts easily.
 So while this does kinda work, it's not great, and I can see myself getting frustrated with it quite easily.
 
 So. Let's find other options.
+
+## Octopage
+
+https://appsto.re/gb/rk9UM.i
+
+This app actually works quite well. It has offline editing, preview, and a Markdown syntax guide.
+
+There are a few bugs though, the most annoying of which is that it occasionally scrolls up when I preview the post then go back to edit mode.
+
+It also only has drafts local to the app. No way (yet) of using the drafts directory in the repo.
+I've asked the dev to add that functionality, so we'll see what happens.
+
+That's not a deal breaker, but it does mean that any post I don't complete in this app can't be picked up on my laptop.
+
+Which means that, while I can write my thoughts on the app using the app itself, I need to update my page draft with a different app.
 
 ## TODO
 
