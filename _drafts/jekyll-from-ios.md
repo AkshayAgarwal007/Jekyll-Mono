@@ -7,13 +7,11 @@ date: {}
 category: blogging
 published: true
 ---
-Most of the editing I do on this blog is/will be done on my laptop, and mostly in Vim.
-
-But that is not really great, if I want to post something while I am away from my laptop.
+Most of the editing I do on this blog is/will be done on my laptop, and mostly in Vim. But that is not really great if I want to post something while I am away from my laptop.
 
 So I need to figure something out.
 
-## Prose.io
+## Prose.io - Free
 
 http://prose.io/ seems good. I think it is designed specifically for Jekyll sites. I have been writing this post in that site so far, and it works okay, but not great.
 
@@ -27,7 +25,7 @@ So while this does kinda work, it's not great, and I can see myself getting frus
 
 So. Let's find other options.
 
-## Octopage
+## Octopage - £0.99
 
 https://appsto.re/gb/rk9UM.i
 
@@ -42,9 +40,26 @@ That's not a deal breaker, but it does mean that any post I don't complete in th
 
 Which means that, while I can write my thoughts on the app using the app itself, I need to update my page draft with a different app.
 
-## TODO
+## Source for iOS - £4.99
 
-https://workingcopyapp.com maybe
-Because Git
+https://appsto.re/gb/r06Sgb.i
+
+App is actually free, but being able to push back to GitHub is an in-app purchase.
+
+This one took a while to get started. It wasn't able to set up my SSH key, so I had to add that manually. Once that was in place, it all went swimmingly.
+
+This one is a full fledged git client, so it lets me edit any file in the repo. And it also has offline editing, which is nice.
+
+No preview functionality, but that's fine; that's not what the app is for.
+
+It does have a few keyboard issues though. It has its own keyboard, which can be used in other apps. It looks like it is supposed to have quick access to special characters, but I can't see how that is supposed to work. You can disable the custom keyboard, but even then there is none of iOS's autocorrection, which makes it frustrating to use.
+
+I would like to love this app, but I would need more keyboard behaviour settings before I am willing to pay the £4.99 to unlock it.
+
+Note to self: contact the dev.
+
+## So... what will I use?
+
+TBC
 
 [^1]: That alone is interesting to me. I want to see how this app works, because it is obviously doing something odd.
