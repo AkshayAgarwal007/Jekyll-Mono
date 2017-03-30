@@ -6,7 +6,7 @@
 name: LMHD
 
 # Short bio or description (displayed in the header)
-description: Instigator of DevOps Shenanigans, API enthusiast, and Recreational Procrastinatrix.
+description: Instigator of DevOps Shenanigans, API enthusiast, and Recreational Procrastinatrix
 
 # Short desc, back of avatar
 short_description: Professional Geek
@@ -58,6 +58,9 @@ timezone: Europe/London
 
 permalink: /:categories/:year/:month/:day/:title/
 
+paginate: 5
+paginate_path: "/posts/page:num/"
+
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
@@ -76,6 +79,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate # Pagination
 
 # Exclude these files from your production _site
 exclude:

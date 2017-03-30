@@ -59,6 +59,11 @@ button, {
     cursor: pointer;
     box-sizing: border-box; 
 }
+
+.button.button-small,
+button.button-small, {
+	padding: 0 15px;
+}
     
 .button:hover,
 button:hover,
@@ -78,7 +83,8 @@ button.button-primary, {
 .button.button-primary:hover,
 button.button-primary:hover,
 .button.button-primary:focus,
-button.button-primary:focus {
+button.button-primary:focus,
+.button.button-active, {
     color: #FFF;
     background-color: $mono-color;
     border-color: $mono-color; 

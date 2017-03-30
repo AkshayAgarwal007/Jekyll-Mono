@@ -30,6 +30,8 @@
 {% endif %}
 {% if page.description %}
   <meta name="twitter:description" content="{{ page.description }}">
+{% elsif page.excerpt %}
+  <meta name="twitter:description" content="{{ page.excerpt }}">
 {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
