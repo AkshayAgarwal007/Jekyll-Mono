@@ -34,8 +34,6 @@
        </div>
        
         <div class="container">
-            <div class="space-small"></div>
-           
             <div class="centered">
               <ul class="ch-grid">
                 <li>
@@ -53,25 +51,30 @@
                 </li>
             </ul>
         </div>
-             
-             <div class="space-medium"></div>
-            
+        <div class="space-extra-small"></div>
+        <div class="container">
+          <div class="centered">
+            <div class="svg-icon">
+              {% include svg-icons.html %}
+            </div>
+          </div>
         </div>
+        <div class="space-extra-small"></div>
+      </div>
     </div>
 
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
 
+<!-- Nothing here yet
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-            <div class="svg-icon">
-          {% include svg-icons.html %}
-            </div>
         </footer>
       </div>
     </div>
+-->
 
     {% include analytics.html %}
   </body>

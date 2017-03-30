@@ -135,10 +135,10 @@ button.button-primary:focus {
 
 .svg-icon {
     a {
-      color:darken($mono-color,10);
+      color:lighten($mono-color,30);
       cursor: pointer;
       &:hover {
-        color: darken($mono-color,20);
+        color: lighten($mono-color,60);
       }
     }
 }
@@ -150,6 +150,7 @@ button.button-primary:focus {
 .centered {
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 .ch-grid {
