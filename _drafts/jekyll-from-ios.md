@@ -71,6 +71,8 @@ Only other downside is that I can't find any way to move files around, i.e. publ
 
 Also lets me view diffs before committing, which I don't think Source would let me do.
 
+I don't anticipate needing to post many images, but that is possible in this app.
+
 ## So... what will I use?
 
 TBC
