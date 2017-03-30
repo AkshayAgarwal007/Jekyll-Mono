@@ -108,7 +108,7 @@ button.button-primary:focus {
 
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading{
-    padding: 150px 0;
+    padding: 30px 0;
   }
 }
 
@@ -301,3 +301,18 @@ button.button-primary:focus {
 	pointer-events: auto;
 }
 
+
+/*
+  Footnotes
+*/
+
+.footnote {
+  /* a single footnote link */
+  vertical-align: super;
+  font-size: 75%;
+}
+.footnotes {
+  /* entire footnote section */
+  border-top: 1px solid $mono-color;
+  padding-top: 10px;
+}
