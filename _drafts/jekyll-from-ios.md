@@ -40,7 +40,7 @@ That's not a deal breaker, but it does mean that any post I don't complete in th
 
 Which means that, while I can write my thoughts on the app using the app itself, I need to update my page draft with a different app.
 
-## Source for iOS - £4.99
+## Source for iOS - Free?
 
 https://appsto.re/gb/r06Sgb.i
 
@@ -54,11 +54,11 @@ No preview functionality, but that's fine; that's not what the app is for.
 
 It does have a few keyboard issues though. It has its own keyboard, which can be used in other apps. It looks like it is supposed to have quick access to special characters, but I can't see how that is supposed to work. You can disable the custom keyboard, but even then there is none of iOS's autocorrection, which makes it frustrating to use.
 
-I would like to love this app, but I would need more keyboard behaviour settings before I am willing to pay the £4.99 to unlock it.
+I would like to love this app, but I would need more keyboard behaviour settings before I am happy with it.
 
-Edit: looks like I CAN push back to GitHub.
+I have listed it as free with a question mark becauase it says that pushing to a remote repo is part of the £4.99 in app purchase, but it looks like that just works in the free version. I suspect the answer is that pushing to other remote repos is the premium feature.
 
-Note to self: contact the dev.
+Note to self: contact the dev about keyboard preferences.
 
 ## So... what will I use?
 
