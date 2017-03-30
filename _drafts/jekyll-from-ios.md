@@ -56,7 +56,7 @@ It does have a few keyboard issues though. It has its own keyboard, which can be
 
 I would like to love this app, but I would need more keyboard behaviour settings before I am happy with it.
 
-I have listed it as free with a question mark becauase it says that pushing to a remote repo is part of the £4.99 in app purchase, but it looks like that just works in the free version. I suspect the answer is that pushing to other remote repos is the premium feature.
+I have listed it as free with a question mark becauase it says that pushing to a remote repo is part of the £4.99 in app purchase, but it looks like that just works in the free version. I suspect the answer is that pushing to other remote repos is the premium feature. Or it could be a bug, because when I try to push without committing at the same time, it prompts me to pay for then in app purchase.
 
 Note to self: contact the dev about keyboard preferences.
 
