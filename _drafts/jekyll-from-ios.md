@@ -56,6 +56,8 @@ It does have a few keyboard issues though. It has its own keyboard, which can be
 
 I would like to love this app, but I would need more keyboard behaviour settings before I am willing to pay the £4.99 to unlock it.
 
+Edit: looks like I CAN push back to GitHub.
+
 Note to self: contact the dev.
 
 ## So... what will I use?
