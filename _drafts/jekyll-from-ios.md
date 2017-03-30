@@ -21,6 +21,8 @@ Most annoying is that it does not take advantage of iOS's autocorrect[^1], e.g. 
 
 Plus it's a web app, so I need Internet access to use it.
 
+But it does integrate directly with GitHub, so I save posts and drafts easily.
+
 So while this does kinda work, it's not great, and I can see myself getting frustrated with it quite easily.
 
 So. Let's find other options.
