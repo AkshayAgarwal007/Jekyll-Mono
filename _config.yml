@@ -54,6 +54,8 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
+timezone: Europe/London
+
 permalink: /:categories/:year/:month/:day/:title/
 
 # Jekyll 3 now only supports Kramdown for Markdown
