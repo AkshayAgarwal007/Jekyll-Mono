@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/lmhd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://lmhd.me
+  * I am lmhd (https://keybase.io/lmhd) on keybase.
+  * I have a public key with fingerprint 9DAC 53FB 18AB 8C5D F0E2  AA5B 330C B62A E334 C5E2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101123c72398e086407ee1845693e8dabe5e15222157b9fda37e4562a87e260857e0a",
+            "fingerprint": "9dac53fb18ab8c5df0e2aa5b330cb62ae334c5e2",
+            "host": "keybase.io",
+            "key_id": "330cb62ae334c5e2",
+            "kid": "0101123c72398e086407ee1845693e8dabe5e15222157b9fda37e4562a87e260857e0a",
+            "uid": "52f9121d5541251a4898f7f331c3a519",
+            "username": "lmhd"
+        },
+        "service": {
+            "hostname": "lmhd.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1476953090,
+    "expire_in": 157680000,
+    "prev": "30348f1beb3565c3c23112a2cb6768a49e087ddbc54f23d4fd3ae3c79cb1d3cf",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJtSBRBGL6zK01IU/pAgrANS+qQnZmd290jMSPSQCnBSkW4dndm7xb1
+9rpbLbELKaGQPigUEiSDoLDCMgrR0DoTwQrP/NOHP/qkyIToiwotm5WCfvSz+TMz
+7/s8zzzz8A4tmudIdl45HI1e2t0hOO/FjtU6ypKaEho41ST1nLeBq6JzG60mNGL5
+qgzCeTke8ABApIkQyRLlJY/Ai5QCScAeGVGJKCrFFGAIIcCiKutEQSJlTahIIoUe
+XsIi5RXOzelG0E/DobARtJisTBQNI10FkqJKGiY6T6GiYBUhXlMZmSIkaJhCRgyY
+EZvBzKlKhOYYJquxi2/O3j/w/9l37ZwchroMICAYCwBioAiSLOmijhDQkIKBbAMj
+NBxUaihDV9cECBd1c6xSZ2jUDtX+xV/dHHZyc6GwaZmaWc2KAcsKeW2OVR+yQXup
+6vtN96lGkLD0GKGOhiOGGeS8gCE1y7D1gCB6ZIx4mXdzdF/ICFOfYSOw6JF4tuxn
+aJ2dFY8ESQcqVRH2YA1pELGIFMgCZFBFkFlMIiGqhgUdIiLoBLFcNVHWVECQpnP2
+h/YETc4rMJuKn0lGDH9QsWrDlIsO3q50OZzJjgXzE+ypciQvXPxn1qA/8ee60rbK
+zHMDY/OeFJS3Fh7/MDXxea27r2TEKjpSETUeis/a956aSBtcvqT60YEzq/sfx+OF
+W9dPfTxb/Da9oHWqYnzzUY/YVxHLfT70I/9Tp5N/PtrRU1YpPGzM3590t2l8Ojv7
+/uRAyehbIe/G0usf22Zcna9NH5/SdTrv8gXXWDzjayq36b3f0TzbE1gpjCQe3PUg
+01U6lRH9Vp4+k3sydWVR8aTj5ZIn7XdgfMvwre1mlqPiZm/Xhp53h9Z93xaZPSFO
+vijrzti16su1NWDHxvj5UP/AgVI6nB1LvZoy/ZMUNC8r7F0hNhotMa+3Z6JuvCXr
+4oK07tnQgzevdj4m95/+Ag2oPUA=
+=YILc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lmhd
+
+==================================================================
+
