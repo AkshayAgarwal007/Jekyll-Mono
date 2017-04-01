@@ -323,3 +323,23 @@ button.button-primary:focus,
   border-top: 1px solid $mono-color;
   padding-top: 10px;
 }
+
+
+
+
+/*
+  Articles and Categories
+*/
+
+article {
+/*	position: relative */
+}
+
+.categories {
+/*	position: absolute;
+	top: 0;
+	right: 0; */
+	text-transform: uppercase;
+	margin-top: -20px;
+	font-size: small;
+}

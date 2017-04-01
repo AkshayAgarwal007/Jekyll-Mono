@@ -8,6 +8,14 @@ layout: default
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
+      <div class="categories">
+        {% if post.categories %}
+          {% for category in post.categories %}
+            <a href="{{ site.baseurl }}/{{ category }}">{{ category }}</a>
+          {% endfor %}
+        {% endif %}
+      </div>
+
       <div class="entry">
         {{ post.excerpt }}
       </div>
