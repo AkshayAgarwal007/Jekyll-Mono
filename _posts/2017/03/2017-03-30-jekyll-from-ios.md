@@ -5,6 +5,7 @@ description: This post was written entirely on my iPad and iPhone, with a bunch 
 author: Lucy
 date: 2017-03-30 19:30:00 +0100
 category: ramble
+tags:     [blog, jekyll]
 ---
 Most of the editing I do on this blog is/will be done on my laptop, and mostly in Vim. But what if I want to post something while I am away from my laptop?
 

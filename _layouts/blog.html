@@ -37,10 +37,15 @@
             {% if page.categories %}
               in
               {% for category in page.categories %}
-                <a href="{{ site.baseurl }}/{{ category }}">{{ category }}</a>
+                <a href="{{ site.baseurl }}/category#{{ category }}">{{ category }}</a>
               {% endfor %}
             {% endif %}
-            on {{ page.date | date: "%B %e, %Y" }}
+            on {{ page.date | date: "%B %e, %Y" }}<br>
+            {% if page.tags %}
+              {% for tag in page.tags %}
+                <a class="icon-tag" href="{{ site.baseurl }}/tag#{{ tag }}">{{ tag }}</a>
+              {% endfor %}
+            {% endif %}
             </span>
         </div>
             
