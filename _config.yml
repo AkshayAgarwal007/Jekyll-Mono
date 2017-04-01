@@ -18,16 +18,17 @@ short_description: Professional Geek
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: lucy@lucymhdavies.com
   facebook: lucy.m.h.davies
-  flickr:
   github: lucymhdavies
-  instagram:
   linkedin: lucy-davies-a3a9aa22
+  twitter: lmhadavies
+  keybase: lmhd
+  dribbble:
+  flickr:
+  instagram:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: lmhadavies
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
