@@ -37,17 +37,27 @@ https://www.openshift.com
 
 I actually already have a Jenkins set up and running here. I set it up a year or so ago when I wanted to play around with some stuff. I'm not paying anything for it, which is probably why it stays online for a few days then dies a death.
 
+TODO
+
 ### CloudBees Hosted
 
 https://www.cloudbees.com/products
 
 https://www.cloudbees.com/products/jenkins-cloud
 
+TODO
+
 ### RPi?
 
 Because why not?
 
+TODO
+
 ### Heroku?
+
+No.
+
+I mean, [it's possible](https://gist.github.com/jordansissel/2313443), but getting it to persist is kinda awkward, and that's not really what Heroku is for.
 
 TODO
 
@@ -69,7 +79,9 @@ TODO + look around
 
 ## CodeShip
 
-Already use this for some things
+I already use this for some things
+
+TODO
 
 ## CodePipeline
 
