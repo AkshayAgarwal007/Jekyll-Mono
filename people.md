@@ -6,8 +6,6 @@ permalink: /people/
 
 # Future 
 
-We're looking for a [postdoc]({% post_url 2017-03-22-postdoc-wanted %})!
-
 Interested in joining us? Please contact Pauline.
 
 Potential graduate students: for more information about applying see the web page for the [graduate program in Physics & Astronomy at Western](http://physics.uwo.ca/graduate/index.html).
@@ -39,18 +37,16 @@ However, they are much better than globular clusters at representing binary evol
 of point sources in a nearby galaxy. FInd an abstract for his conference presentation on this work [here](http://www.casi.ca/casi/wp-content/uploads/2016/06/Abstract-book-draft-6-complete.pdf). He doesn't usually wear a suit.
 
 &nbsp; 
+ 
+
+# Recent alumni
 
 ## Sachi Elkerton (BSc 2017)
 
 <img align="right" src="{{ site.url }}/images/sachi.jpg">
-[Sachi](https://www.linkedin.com/in/sachi-elkerton-b55434129)'s thesis research is on mass-losing dusty stars in nearby
+[Sachi](https://www.linkedin.com/in/sachi-elkerton-b55434129)'s thesis research was on mass-losing dusty stars in nearby
 [dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group).
 
- &nbsp; 
-
-&nbsp; 
-
-# Recent alumni
 
 ![Neven, Pauline and Sahar on Convocation day, fall 2016]({{ site.url }}/images/pb_sr_nv_grad.jpg)
 
@@ -88,11 +84,11 @@ He is now a PhD student at the University of Waterloo and Perimeter Institute. F
 
 [Dimuthu](https://ca.linkedin.com/in/dimuthu-hemachandra-2465571b) studied the Polycyclic Aromatic Hydrocarbons in Andromeda; find
 his MSc thesis paper [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Hemachandra%2C%20D%22&sort=date%20desc%2C%20bibcode%20desc).
-
+Dimuthu works as an instructor at [Brescia University College](http://www.brescia.uwo.ca).
 
 ## Andrea Hidalgo Valadez (BSc, Mitacs Globalink 2014)
 
-[Andrea](https://www.linkedin.com/in/andreaahidalgov) investigated the use of [clustering algorithms](https://github.com/LaurethTeX/Clustering) in analysis of multi-wavelength astronomical catalogs. She is now an MSc student in astophysical instrumentation at [INAOE, Mexico](http://inaoe.edu.mx).
+[Andrea](https://www.linkedin.com/in/andreaahidalgov) investigated the use of [clustering algorithms](https://github.com/LaurethTeX/Clustering) in analysis of multi-wavelength astronomical catalogs. She completed her MSc in astophysical instrumentation at [INAOE, Mexico](http://inaoe.edu.mx) in 2017 and will soon be starting her PhD.
 
 ## Gabe Keenleyside (BSc 2014)
 
