@@ -19,7 +19,7 @@ I graduated in Computer Science at University of Salerno and the argument of my 
 * **Others** - `Android` / `LaTex` / `Matlab` 
     
     
-
+***
 
 ## Contact me
 
