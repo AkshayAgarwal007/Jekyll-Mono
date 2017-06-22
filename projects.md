@@ -9,7 +9,7 @@ Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulu
 
 ***
 
-## Other Projects
+## Academic Projects
 
 ### CSTP App
 
