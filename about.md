@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I graduated in Computer Science at University of Salerno and I’m currently a Computer Security Master's-degree student. 
-The argument of my thesis concerned IPv6 and IPsec protocols.
+I graduated in Computer Science at University of Salerno and the argument of my thesis concerned IPv6 and IPsec protocols. I’m currently a Computer Security Master's-degree student at University of Salerno. 
 
 ## Education
 
