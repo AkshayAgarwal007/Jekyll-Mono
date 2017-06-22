@@ -11,18 +11,12 @@ I graduated in Computer Science at University of Salerno and the argument of my 
 * Computer Science bachelor's degree
 * High school leaving qualification in scientific studies
 
-## Roles
-
-Founder, ABC Organisation
-
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **Computer Security Skills** - `Cryptography ` / `Malware Analysis` / `KaliLinux` 
+* **Programming Languages** - `C` / `Java` / `Javascript` / `PHP` / `Python`
+* **Databases** - `MySQL` / `MongoDB` 
+* **Others** - `Matlab` / `Android` 
     
     
 
