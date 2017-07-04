@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Username
+name: Orlando Android
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description: All Things Android in Orlando
 
 
 #
@@ -16,12 +16,12 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
+  email: droidmeetup@gmail.com
   facebook:
   flickr:
-  github: AkshayAgarwal007
+  github: orlando-android
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -39,13 +39,13 @@ google_analytics:
 
 # Your website URL (e.g. http://akshayagarwal007.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: 'https://orlando-android.github.io/'
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl:
 
 #
 # !! You don't need to change any of the configuration flags below !!
