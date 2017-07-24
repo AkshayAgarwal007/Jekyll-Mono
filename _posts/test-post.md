@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started with Android Architeture Component
+title: Getting Started with Android Architeture Component.md
 author: Nsikak Thompson
 published: true
 ---
