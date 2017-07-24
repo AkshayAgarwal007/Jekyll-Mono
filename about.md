@@ -4,52 +4,53 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+I am Nsikak Thompson a Software Engineer who builds stuffs for Android. I believe Apps built in Nigeria can be more beautiful with the use of Material Design. A tech enthusiats, motivator and a preacher of Tech. From more indications i got more love for UI design which i got Started not long ago. I desire to be world class and i believe and recommend the approach of using best pratices. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+Have be working with Android for some years now. It have really been and awesome experience
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* ND in Computer Engineering from Uyo City Polytechnic.
+* Associate Android Nanodegree from Udacity
+
 
 ## Roles
 
-Founder, ABC Organisation
+Lead- Android Developer at Start Innovation Hub, Co-lead GDG Uyo, 
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
+* **Android Developement** - `front-end` / `backend` 
+* **Designer** - `UI/UX ` 
+* **Version Control** - `Git` 
+
     
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
+* [**Android Study Jam Certificate**](#) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+  I enrolled the 2016 Android Study Jams program and was certified.
 
 ***
 
-* [**This is my second achievement**](#) 
+* [**Android Team Lead hotels.ng Internship 2017**](#) 
 
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   I was opportune to lead the Android team in the hotels.ng remote internship 2016. This was a great task for me.
 
 ***
 
-* [**This is my third achievement**](#) 
+* [**Andela ALC Facilitator Calabar**](#) 
 
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+  A facilitator for Andela ALC 2017 for Calabar South South region Nigeria
+
+***
+  * [**Associate Android Devloper Certified by Google**](#) 
+
+  
 
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[nsikakthompson73@gmail.com](mailto:nsikakthompson73@gmail.com)
