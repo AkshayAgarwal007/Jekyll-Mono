@@ -6,7 +6,7 @@ permalink: /about/
 
 I am Nsikak Thompson a Software Engineer who builds stuffs for Android. I believe Apps built in Nigeria can be more beautiful with the use of Material Design. A tech enthusiats, motivator and a preacher of Tech. From more indications i got more love for UI design which i got Started not long ago. I desire to be world class and i believe and recommend the approach of using best pratices. 
 
-Have be working with Android for some years now. It have really been and awesome experience
+Have been working with Android for some years now. It have really been and awesome experience
 
 
 ## Education
