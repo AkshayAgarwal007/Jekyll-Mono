@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="categories">
+        {% if post.categories %}
+          {% for category in post.categories %}
+            <a href="{{ site.baseurl }}/category#{{ category }}">{{ category }}</a>
+          {% endfor %}
+        {% endif %}
+        {% if post.tags %}
+          <br>
+          {% for tag in post.tags %}
+            <a class="icon-tag" href="{{ site.baseurl }}/tag#{{ tag }}">{{ tag }}</a>
+          {% endfor %}
+        {% endif %}
+      </div>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+<div class="container"><div class="centered">
+
+{% if paginator.total_pages > 1 %}
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous button button-primary button-small">&lt;</a>
+  {% else %}
+    <span class="previous button button-disabled button-small">&lt;</span>
+  {% endif %}
+
+
+  <!-- TODO: add some handling for large number of pages, e.g. > 10 -->
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em class="button button-active button-small">{{ page }}</em>
+    {% elsif page == 1 %}
+      <a class="button button-primary button-small" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a class="button button-primary button-small" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next button button-primary button-small">&gt;</a>
+  {% else %}
+    <span class="next button button-disabled button-small">&gt;</span>
+  {% endif %}
+</div>
+{% endif %}
+
+</div></div>
