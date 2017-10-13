@@ -13,10 +13,10 @@ I graduated in Computer Science at University of Salerno in 2016 and the argumen
 
 ## Skills
 
-* **Computer Security Skills** - `Cryptography ` / `KaliLinux` / `Malware Analysis` / `strongSwan` 
+* **Computer Security Skills** - `Cryptography ` / `KaliLinux` / `Malware Analysis` / `Penetration Testing` 
 * **Programming Languages** - `C` / `Java` / `Javascript` / `PHP` / `Python`
 * **Databases** - `MongoDB` / `MySQL` 
-* **Others** - `Android` / `LaTex` / `Matlab` 
+* **Others** - `Android` / `IPsec protocol` / `LaTex` / `Matlab` / `QGis`
     
     
 ***
