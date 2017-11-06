@@ -26,6 +26,13 @@ Lead- Android Developer at Start Innovation Hub, Co-lead GDG Uyo,
 * **Version Control** - `Git` 
 
     
+## Projects
+
+* [Jiggle] (https://play.google.com/store/apps/details?id=ng.com.jiggle.jiggleapp)  
+* [hotels.ng App] (https://play.google.com/store/apps/details?id=ng.hotels.app)
+* [LFC APP] (https://play.google.com/store/apps/details?id=com.livingfaith.lfciyk) 
+
+
 ## Achievements
 
 
