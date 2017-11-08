@@ -30,22 +30,25 @@ However, they are much better than globular clusters at representing binary evol
 
 [Robin's Publications](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Arnason%2C%20R%22&sort=date%20desc%2C%20bibcode%20desc)
 
-## Alex Kiar (BESc/HBA 2018; USRA 2016)
-
-<img align="right" src="{{ site.url }}/images/alex.jpg">
-[Alex](https://ca.linkedin.com/in/alexkiar)'s research involves the use of clustering algorithms to analyze a multi-wavelength astronomical catalog
-of point sources in a nearby galaxy. FInd an abstract for his conference presentation on this work [here](http://www.casi.ca/casi/wp-content/uploads/2016/06/Abstract-book-draft-6-complete.pdf). He doesn't usually wear a suit.
 
 &nbsp; 
  
 
 # Recent alumni
 
+## Alex Kiar (BESc/HBA 2018; USRA 2016)
+
+<img align="right" src="{{ site.url }}/images/alex.jpg">
+[Alex](https://ca.linkedin.com/in/alexkiar)'s research involved the use of clustering algorithms to analyze a multi-wavelength astronomical catalog
+of point sources in a nearby galaxy. The paper from this research is [here](https://academic.oup.com/mnras/article/472/1/1074/4082094/Deconstructing-a-galaxy-colour-distributions-of). He doesn't always wear a suit.
+
+&nbsp; 
+
 ## Sachi Elkerton (BSc 2017)
 
 <img align="right" src="{{ site.url }}/images/sachi.jpg">
 [Sachi](https://www.linkedin.com/in/sachi-elkerton-b55434129)'s thesis research was on mass-losing dusty stars in nearby
-[dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group).
+[dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group). Sachi is currently a [Master of Data Analytics](http://uwo.ca/mda/) student at Western.
 
 
 ![Neven, Pauline and Sahar on Convocation day, fall 2016]({{ site.url }}/images/pb_sr_nv_grad.jpg)
@@ -100,7 +103,7 @@ Gabe's research involved precisely locating an X-ray binary within [a star clust
 
 ## Judi Agar (MSc 2012)
 
-[Judi's](https://ca.linkedin.com/in/judi-agar-540787119) research was on the structure of X-ray binary-containing globular clusters in Andromeda; her MSc thesis paper is [here](https://arxiv.org/abs/1308.6748). She is now a high school science and mathematics teacher.
+[Judi's](https://ca.linkedin.com/in/judi-agar-540787119) research was on the structure of X-ray binary-containing globular clusters in Andromeda; her MSc thesis paper is [here](https://arxiv.org/abs/1308.6748). She is now a college astronomy professor and high school science and mathematics teacher.
 
 ## Ghazal Farhani (MSc 2012)
 
