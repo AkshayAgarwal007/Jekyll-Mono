@@ -54,7 +54,7 @@ Neven, Pauline and Sahar on Convocation day, fall 2016
 
 ## Sahar Rahmani (PhD 2016)
 
-[Sahar's](https://sites.google.com/site/rahmanisahar/) research involves using modern statistical and machine learning techniques to study the star formation rate in external galaxies. Find her publications [here](author:"Rahmani, S" AND  author:"Barmby") and her PhD thesis [here](http://ir.lib.uwo.ca/etd/4061/).
+[Sahar's](https://sites.google.com/site/rahmanisahar/) research involves using modern statistical and machine learning techniques to study the star formation rate in external galaxies. Find her publications [here](http://ui.adsabs.harvard.edu/#search/q=author%3A"Rahmani"%20author%3A"Barmby"&sort=date%20desc%2C%20bibcode%20desc) and her PhD thesis [here](http://ir.lib.uwo.ca/etd/4061/). Sahar is now a [data scientist in industry](https://www.linkedin.com/in/rahmanisahar/).
 
 ## Neven Vulic (PhD 2016, MSc 2012)
 
