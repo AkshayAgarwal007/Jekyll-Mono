@@ -88,7 +88,7 @@ Dimuthu works as an instructor at [Brescia University College](http://www.bresci
 
 ## Andrea Hidalgo Valadez (BSc, Mitacs Globalink 2014)
 
-[Andrea](https://www.linkedin.com/in/andreaahidalgov) investigated the use of [clustering algorithms](https://github.com/LaurethTeX/Clustering) in analysis of multi-wavelength astronomical catalogs. She completed her MSc in astophysical instrumentation at [INAOE, Mexico](http://inaoe.edu.mx) in 2017 and will soon be starting her PhD.
+[Andrea](https://www.linkedin.com/in/andreaahidalgov) investigated the use of [clustering algorithms](https://github.com/LaurethTeX/Clustering) in analysis of multi-wavelength astronomical catalogs. She completed her MSc in astophysical instrumentation at [INAOE, Mexico](http://inaoe.edu.mx) in 2017 and is now a [DPhil student at Oxford](https://www2.physics.ox.ac.uk/contacts/people/hidalgo).
 
 ## Gabe Keenleyside (BSc 2014)
 
