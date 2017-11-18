@@ -15,8 +15,7 @@ This is an application developed from an interface prototype developed for the H
 ## Academic Projects
 
 ### [CSTP App](https://drive.google.com/open?id=0BxNNG2RMDZe8X0RYNjNmNFpJZUE)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+It is an application for Android and intended for the CSTP transport service in Salerno. Using the application you can: view the coach times, view the current position of a coach by gps update, create custom paths to monitor, view nearby stops and store tickets or subscriptions. 
 
 ### [NoSQL Multimedia Database](https://github.com/christian161291/mongodatabaseGit) 
 
@@ -34,9 +33,8 @@ This projects oncerns one of the crucial phases of Iris Recognition: segmentatio
 
 ## Oral Presentations
 
-### [Bachelor's thesis](https://github.com/) 
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Bachelor's thesis](https://drive.google.com/open?id=1oPsx7CJ4r9y-dYWhEQXbxLARhFbwhs8_JhGW6lBVnkM) 
+The topic mainly concerns the differences in terms of performance between the native implementation of IPsec (kernel level) in IPv6 and the traditional implementation at application level implemented through tunneling. The thesis is divided into three chapters: the first chapter deals with IPv6, IPv4 and IPsec protocols; in particular the focus is on the relationships between the IPv6 and IPv4 protocols and the IPsec protocol. The second chapter shows the implementation details of the two configurations and the tools used. Finally, in the last chapter, the results obtained during the testing phase are presented and commented on.
 
 ### [Lamport's scheme](https://drive.google.com/open?id=0BxNNG2RMDZe8RkNlUzJ3dlUwaVk) 
 This is my oral presentation about the Lamport's scheme and its security. The presentation provides a formal description and a formal proof.  
