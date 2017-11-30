@@ -24,9 +24,7 @@ Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [
 
 ## Mark Gorski (Postdoc)
 <img align="right" src="{{ site.url }}/images/gorski.jpg">
-I use molecular spectra from radio and submillimeter telescopes to probe physical conditions of the interstellar medium within nearby galaxies.  The connection between star formation and the ISM is responsible for large uncertainties in galaxy evolution and the main source of uncertainty limiting future progress. I'm specifically interested in the effect of mechanical and radiative feed-back processes and how they might impede the formation of stars. 
-
-You can find my CV and more about my research on my [webpage](https://sites.google.com/site/astrogorski/)
+I use molecular spectra from radio and submillimeter telescopes to probe physical conditions of the interstellar medium within nearby galaxies.  Nearby galaxies permit access to weak, but diagnostically important tracers that can be applied to a much wider range of galactic star formation rates and environments. The connection between star formation and the ISM is responsible for large uncertainties in galaxy evolution and the main source of uncertainty limiting future progress. I'm specifically interested in the effect of mechanical and radiative feed-back processes and how they might impede the formation of stars. 
 
 ## Robin Arnason (PhD 2018)
 
