@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ### [Anagrams solution](https://github.com/) 
-This is a set of Python scripts designed to resolve the backend challenge called "Follow the white rabbit" by the TrustPilot development team. The script finds the first level solution in less than twenty minutes.
+This is a set of Python scripts designed to resolve the backend challenge called "Follow the white rabbit" by the TrustPilot development team. The script finds the first level solution in less than fifteen minutes.
 
 ### [HealthAdvisor App](https://drive.google.com/open?id=0BxNNG2RMDZe8WUVvTnpRSUFweEk)
 This is an application developed from an interface prototype developed for the Human Machine Interaction exam. The application allows you to create reminders for taking medications or for various types of measurements. Through the user's feedback, the application is able to process monthly and weekly statistics about the measurements that are being made, and also allows you to submit charts to the doctor associated with the cure you are following. Finally, the application allows, through gps, to locate the pharmacies present in the surrounding area.
@@ -20,7 +20,7 @@ Cybersecurity project at the University of Salerno, concerning an anomaly detect
 ### [JPEG Scrambling]()
 Data Compression project at the University of Salerno to perform a scrambling of the faces (detected by the Viola-Jones algorithm) of images in JPEG format through a replacement of the DCT coefficients, in order to hide the identity of the subjects involved.
 
-### [QGIS Project]()
+### [QGIS Project](https://drive.google.com/open?id=1TK_HR-RcLyy5yW3KRhdfF0i23r2Fsfde)
 Geographical Information Systems project at the University of Salerno, concerning an Android application that allows users to view areas with water risk and to report any anomalies. The data were processed using the QGIS software and the synchronization was implemented through the WMS service and cloud support provided by the QGIS Cloud plugin.
 
 ### [CSTP App](https://drive.google.com/open?id=0BxNNG2RMDZe8X0RYNjNmNFpJZUE)
