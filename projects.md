@@ -14,6 +14,15 @@ This is an application developed from an interface prototype developed for the H
 
 ## Academic Projects
 
+### [Network Anomaly Detection]()
+Cybersecurity project at the University of Salerno, concerning an anomaly detection activity on network traffic (using .pcap files processed by Wireshark). The language used is Python and the variables chosen for classification are throughput and RTT (Round Trip Time). The project involves machine learning techniques, in particular supervised machine learning and uses the cross validation and the Gaussian distribution to refine the values ​​of the thresholds to distinguish the usual traffic from the potentially anomalous one.
+
+### [JPEG Scrambling]()
+Data Compression project at the University of Salerno to perform a scrambling of the faces (detected by the Viola-Jones algorithm) of images in JPEG format through a replacement of the DCT coefficients, in order to hide the identity of the subjects involved.
+
+### [QGIS Project]()
+Geographical Information Systems project at the University of Salerno, concerning an Android application that allows users to view areas with water risk and to report any anomalies. The data were processed using the QGIS software and the synchronization was implemented through the WMS service and cloud support provided by the QGIS Cloud plugin.
+
 ### [CSTP App](https://drive.google.com/open?id=0BxNNG2RMDZe8X0RYNjNmNFpJZUE)
 It is an application for Android and intended for the CSTP transport service in Salerno. Using the application you can: view the coach times, view the current position of a coach by gps update, create custom paths to monitor, view nearby stops and store tickets or subscriptions. 
 
@@ -28,7 +37,7 @@ This projects concerns one of the crucial phases of Iris Recognition: segmentati
   
   ***
 
-## Oral Presentations
+## Presentations
 
 ### [Bachelor's thesis](https://drive.google.com/open?id=1oPsx7CJ4r9y-dYWhEQXbxLARhFbwhs8_JhGW6lBVnkM) 
 The topic mainly concerns the differences in terms of performance between the native implementation of IPsec (kernel level) in IPv6 and the traditional implementation at application level implemented through tunneling. The thesis is divided into three chapters: the first chapter deals with IPv6, IPv4 and IPsec protocols; in particular the focus is on the relationships between the IPv6 and IPv4 protocols and the IPsec protocol. The second chapter shows the implementation details of the two configurations and the tools used. Finally, in the last chapter, the results obtained during the testing phase are presented and commented on.
