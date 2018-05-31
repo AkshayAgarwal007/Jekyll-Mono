@@ -43,7 +43,7 @@ This projects concerns one of the crucial phases of Iris Recognition: segmentati
 The topic mainly concerns the differences in terms of performance between the native implementation of IPsec (kernel level) in IPv6 and the traditional implementation at application level implemented through tunneling. The thesis is divided into three chapters: the first chapter deals with IPv6, IPv4 and IPsec protocols; in particular the focus is on the relationships between the IPv6 and IPv4 protocols and the IPsec protocol. The second chapter shows the implementation details of the two configurations and the tools used. Finally, in the last chapter, the results obtained during the testing phase are presented and commented on.
 
 ### [Lamport's scheme](https://drive.google.com/open?id=0BxNNG2RMDZe8RkNlUzJ3dlUwaVk) 
-This is my oral presentation about the Lamport's scheme and its security. The presentation provides a formal description and a formal proof.  
+This is my presentation about the Lamport's scheme and its security. The presentation provides a formal description and a formal proof.  
 
 ***
   
