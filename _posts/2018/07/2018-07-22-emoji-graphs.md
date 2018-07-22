@@ -428,3 +428,8 @@ But yes. This was fun. I need to do silly things like this more often.
 I'll leave you with this video, by a very inspiring woman:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/c0bsKc4tiuY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen sandbox="allow-same-origin allow-scripts allow-forms" ></iframe>
+
+And one more graph (click on it to go to the interactive version!):
+
+[![Screenshot of Grafana graph](/images/posts/2018-07-22/final-graph.png)](https://snapshot.raintank.io/dashboard/snapshot/6vYg4i4qhp51v1Q8lrYNDeE07YasaDES)
+
