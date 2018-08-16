@@ -67,3 +67,75 @@ View my publicly-auditable identity here: https://keybase.io/lmhd
 
 ==================================================================
 
+
+
+==================================================================
+https://keybase.io/lmhd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lusitania.maegan.heather.artemis.julian.davinhart.com
+  * I am lmhd (https://keybase.io/lmhd) on keybase.
+  * I have a public key with fingerprint 9DAC 53FB 18AB 8C5D F0E2  AA5B 330C B62A E334 C5E2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101123c72398e086407ee1845693e8dabe5e15222157b9fda37e4562a87e260857e0a",
+      "fingerprint": "9dac53fb18ab8c5df0e2aa5b330cb62ae334c5e2",
+      "host": "keybase.io",
+      "key_id": "330cb62ae334c5e2",
+      "kid": "0101123c72398e086407ee1845693e8dabe5e15222157b9fda37e4562a87e260857e0a",
+      "uid": "52f9121d5541251a4898f7f331c3a519",
+      "username": "lmhd"
+    },
+    "service": {
+      "hostname": "lusitania.maegan.heather.artemis.julian.davinhart.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1534407894,
+  "expire_in": 157680000,
+  "prev": "f338505c2050860a3eb3984bf5a05cd36d0fdd583910039c0f0c0984555d8d6c",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMJDAnicrVJJaBRBFO24YjQaQU1cD60Hl9BWdXXNdA8qQQ9ukbijJjJWd1XPlJnp
+Hrt7JkYZRMFIEBkEQXFfcImCkRxE0ajRQMC4RBEhHlwuEYkQUVAQFauD3jxal6Le
+f/+9/x/VUTJYKi5q2ZfPX9lySivqam/LSjVZ7eVO2XRpgxzbKdexgYulKPODeB2n
+ckwGEECoIiuqIkNnQI9oIMoY1DUcMRDTKTEZZhCrqgpx1DRsSlCUiaJK9ChTI0DH
+UQaIXCHb3EkwL+NxJxCyBiUWRrYJdWLqFqY2YCoh2EQIWKZoZghpFmaqaEy6ftgh
+hjOJzxTuCkw84gPj/YP/n+fODshh1TagCinGGlQxJJpu6HbURghaiGBohESfeQ5J
+M8FOpZNUzlfIAslxi4Whhlv8rWZ9HhCHEyVNWII4SpKRIMk8hXgBS3Nf2ZpNcQFT
+kuNOUoCK5aaFQcZzA9dyU0IiGQQZPxZaBA2ZULOemfE/bnGTO1SELTpyzPO568gx
+KJhWwEN7iJEmstANrUJm2zPcY3EeMnA0ogNxQh+WE5JiOR0DbKkAi/gAQcwUUWqm
+jYlAKYpQYFOKdWRAAJBhARtYQBAwxlSnEUsO99/muHJMg2JOkhCaPk84JMh6TM7f
+v1c7RCoqloYNHRT+Qql4ROnfv3nhxPCfZfkx8xuHfZigzLyzJlbIVa74vPD00/7H
+z8qaV06bteT19EsHzyc3v5nzofHWgvpvjev2KCUHjiYeNpUd2jE6/04a27Nx683L
+X79sOn/NP9Xeuraq/MeMrpJJne+1XT2Tz41/t6nZqXokd1TfLaK5OyNrCyXujerm
+Q7H67u3S1L4zr5JK2+IvWqp1ynOp//vr3bz3eO+T/tX5UZU9S0qv7l+2o3Icvv6x
+7mtP07zCuKrC2Ybm/Kua4YtzJ9RjldV7Ty+fsqevrfbwxQdvpRH7Px+MxE92Ll30
+bX3NipflfT83Hr/w9sXcWb+6n6HbLb3l3bEjG1bZ7ONZ+9PEwtggNVst3dvf1KCN
+/A3J/Evr
+=J6Ee
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lmhd
+
+==================================================================
+
