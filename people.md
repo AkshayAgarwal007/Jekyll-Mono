@@ -38,7 +38,7 @@ However, they are much better than globular clusters at representing binary evol
 
 ## Matt Shubat (BSc 2019)
 
-<img align="right" src="{{ site.url }}/images/matt.png">
+<img align="right" src="{{ site.url }}/images/matt.png" width="213" height="233">
 
 My undergraduate thesis project is focused on comparing two popular astronomical datasets: NED and SIMBAD. I will initially be looking at the M83 galaxy object entries and comparing their classifications in an automated fashion. Based on such an analysis I hope to generate useful metrics and results which give a clearer view of how the classifications compare between the two resources. Ultimately this tool could be used by researchers to see how other datasets compare between NED and SIMBAD in terms of similarity, differences, and provide some insight into accuracy.
 
