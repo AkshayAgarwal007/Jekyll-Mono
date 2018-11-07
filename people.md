@@ -47,7 +47,15 @@ I am also in my last year of undergrad pursuing a degree in Computer Science and
 You can find out more about me on [LinkedIn](https://www.linkedin.com/in/mattshubat/)
 
 &nbsp; 
- 
+
+## Dayi David Li (MSc 2020)
+
+<img align="right" src="{{ site.url }}/images/davidli.png">
+
+I am a Master student pursuing a degree in Statistics. My research focuses on devising statistical methods for comparing inhomogeneous spatial point processes/random shapes. I am currently studying the spatial dependence between the CO filament and young star clusters in the M33 galaxy. Methods exist in spatial statistics field for analyzing spatial dependence for homogeneous point processes but few do for inhomogeneous processes. CO filament and star clusters both exhibit similar global inhomogeneity which renders the existing methods unsuitable for investigating the dependence structure. I hope to come up with novel techniques that can address this issue and aid fellow astronomers to better analyze the spatial structure of astronomical objects and possibly generate new physical insights.
+
+For more info about me, please check my [Linkedin](www.linkedin.com/in/dayi-david-li)
+
 
 # Recent alumni
 
