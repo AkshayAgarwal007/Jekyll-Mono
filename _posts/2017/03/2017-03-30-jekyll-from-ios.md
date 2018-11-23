@@ -2,7 +2,7 @@
 layout: post
 title: How to use Jekyll from iOS
 description: This post was written entirely on my iPad and iPhone, with a bunch of different apps, in my attempt to figure out how best to write posts when away from my laptop.
-author: Lucy
+author: Lucy Davinhart
 date: 2017-03-30 19:30:00 +0100
 category: ramble
 tags:     [blog, jekyll]

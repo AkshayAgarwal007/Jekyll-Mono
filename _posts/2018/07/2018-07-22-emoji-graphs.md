@@ -2,7 +2,7 @@
 layout:      post
 title:       🚡 Riding the Aerial Tramway. Emojis on Graphs!
 description: In which I discuss the wild ride aboad an Aerial Tramway (emoji)
-author:      Lucy
+author:      Lucy Davinhart
 date:        2018-07-22 15:40:00 +0100
 category:    tech
 tags:        [prometheus, go, grafana, twitter, emoji]

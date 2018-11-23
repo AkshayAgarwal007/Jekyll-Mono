@@ -1,7 +1,7 @@
 ---
 layout:      post
 title:       Moving my DNS records to Route 53 with Terraform
-author:      Lucy
+author:      Lucy Davinhart
 date:        2017-04-02 17:00:00
 category:    tech
 tags:        [dns, aws, terraform]

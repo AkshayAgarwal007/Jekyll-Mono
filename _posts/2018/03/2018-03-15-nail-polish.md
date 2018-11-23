@@ -2,7 +2,7 @@
 layout:      post
 title:       The Nail Polish Effect 💅
 description: In which I talk about self-consciousness and femininity
-author:      Lucy
+author:      Lucy Davinhart
 date:        2018-03-15 13:30:00
 category:    ramble
 tags:        [blog, trans, gender]
