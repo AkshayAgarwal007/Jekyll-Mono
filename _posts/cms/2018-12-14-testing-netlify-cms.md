@@ -7,7 +7,8 @@ date: 2018-12-14T15:14:42.423Z
 category: tech
 tags:
   - test
-  - ''
+  - netlify
+  - netlify cms
 ---
 I've added Netlify CMS to my site, because it seems like a good idea.
 
