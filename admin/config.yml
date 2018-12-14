@@ -20,6 +20,6 @@ collections:
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Author", name: "author", widget: "hidden", default: "Lucy Davinhart"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Category", name: "tags", widget: "string"}
+      - {label: "Category", name: "category", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
