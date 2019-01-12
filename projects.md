@@ -15,22 +15,22 @@ This is an application developed from an interface prototype developed for the H
 ## Academic Projects
 
 ### [Network Anomaly Detection]()
-Cybersecurity project at the University of Salerno, concerning an anomaly detection activity on network traffic (using .pcap files processed by Wireshark). The language used is Python and the variables chosen for classification are throughput and RTT (Round Trip Time). The project involves machine learning techniques, in particular supervised machine learning and uses the cross validation and the Gaussian distribution to refine the values ​​of the thresholds to distinguish the usual traffic from the potentially anomalous one.
+Cybersecurity project at the University of Salerno, concerning an anomaly detection activity on network traffic (using .pcap files processed by Wireshark). The language used is Python and the variables chosen for classification are throughput and RTT (Round Trip Time). The project involves machine learning techniques, in particular supervised machine learning and uses the cross validation and the Gaussian distribution to refine the values of the thresholds to distinguish the usual traffic from the potentially anomalous one.
 
 ### [JPEG Scrambling]()
-Data Compression project at the University of Salerno to perform a scrambling of the faces (detected by the Viola-Jones algorithm) of images in JPEG format through a replacement of the DCT coefficients, in order to hide the identity of the subjects involved.
+Data Compression project at the University of Salerno to perform a scrambling of faces (detected by the Viola-Jones algorithm) in images in JPEG format through a replacement of the DCT coefficients, in order to hide the identity of the subjects involved.
 
 ### [QGIS Project](https://drive.google.com/open?id=1TK_HR-RcLyy5yW3KRhdfF0i23r2Fsfde)
 Geographical Information Systems project at the University of Salerno, concerning an Android application that allows users to view areas with water risk and to report any anomalies. The data were processed using the QGIS software and the synchronization was implemented through the WMS service and cloud support provided by the QGIS Cloud plugin.
 
 ### [CSTP App](https://drive.google.com/open?id=0BxNNG2RMDZe8X0RYNjNmNFpJZUE)
-It is an application for Android and intended for the CSTP transport service in Salerno. Using the application you can: view the coach times, view the current position of a coach by gps update, create custom paths to monitor, view nearby stops and store tickets or subscriptions. 
+It is an application for Android and intended for the CSTP transport service in Salerno. Using the application you can: view bus timetables, view the current position of a bus by gps updates, create custom paths to monitor, view nearby stops and store tickets or subscriptions. 
 
 ### [NoSQL Multimedia Database](https://github.com/christian161291/mongodatabaseGit) 
-It's a NoSQL database powered by MongoDB and provided with a Java interface. It's allowed to insert pictures, documents, videos, audio files and any kind of multimedial data. There is an authentication login and a support for the GridFS storage engine.
+It's a NoSQL database powered by MongoDB and provided with a Java interface. It allows to insert pictures, documents, videos, audio files and any kind of multimedial data. There is an authentication login and a support for the GridFS storage engine.
 
 ### Malware Analysis 
-It's a project that concerns basic analyses of various malwares. Malware analysis is a very complex and hard task and consists of a static and dynamic analysis to be able to observe and understand the behavior of malicious software from every point of view. The project explores a malware for desktop systems and two malware for mobile systems, emphasizing the importance of the approach to the study of this activity and the results achieved.
+It's a project that concerns basic analysis of different malwares. Malware analysis is a very complex and hard task and consists of a static and dynamic analysis to be able to observe and understand the behavior of malicious software from every point of view. The project explores a malware for desktop systems and two malwares for mobile systems, emphasizing the importance of the approach to the study of this activity and the results achieved.
 
 ### [Iris Segmentation](https://github.com/christian161291/irisSegmentation) 
 This projects concerns one of the crucial phases of Iris Recognition: segmentation. Among the various steps of iris recognition (acquisition, segmentation, standardization, coding and comparison), segmentation is the fundamental one because it takes care of separating the pupil from the iris and the iris from the sclera to get boundaries. The project was carried out using the MATLAB software and led to the creation of two different solutions: 1 - Segmentation by Daugman method (circular integro differential operator); 2 - Segmentation by the Hough transformation,  the Viola-Jones algorithm and a matrix of similarity.
