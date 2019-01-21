@@ -139,3 +139,166 @@ View my publicly-auditable identity here: https://keybase.io/lmhd
 
 ==================================================================
 
+
+==================================================================
+https://keybase.io/lmhd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lmhd.me
+  * I am lmhd (https://keybase.io/lmhd) on keybase.
+  * I have a public key with fingerprint 9DAC 53FB 18AB 8C5D F0E2  AA5B 330C B62A E334 C5E2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101123c72398e086407ee1845693e8dabe5e15222157b9fda37e4562a87e260857e0a",
+      "fingerprint": "9dac53fb18ab8c5df0e2aa5b330cb62ae334c5e2",
+      "host": "keybase.io",
+      "key_id": "330cb62ae334c5e2",
+      "kid": "0101123c72398e086407ee1845693e8dabe5e15222157b9fda37e4562a87e260857e0a",
+      "uid": "52f9121d5541251a4898f7f331c3a519",
+      "username": "lmhd"
+    },
+    "merkle_root": {
+      "ctime": 1548058217,
+      "hash_meta": "bc99e96210abc046730bb56853e34a43da6483239c09e09242f29c54a3536767",
+      "seqno": 4508684
+    },
+    "revoke": {
+      "sig_ids": [
+        "692f3533c92f9c9c78c86f7a27f60a4897be53ae293f008287664cf592a1d20e0f"
+      ]
+    },
+    "service": {
+      "hostname": "lmhd.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1548058246,
+  "expire_in": 157680000,
+  "prev": "0e6d47e276b85f21d4270d557cbc015f19ec54be72e1c18cedacf65c57028a7f",
+  "seqno": 52,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMK3AnicrVNtaBxFGL7YaMzVQigqLRUii/hRjnM+dnZmrqViW4lgUbBFrKZcZmff
+zS2Xuz13N7HlcpVaMNKIDaFUbJGmPzyaJpCgIAa1aKpIa0SLUqiimFIjVAt+VKVo
+ibNBUcSfzp/5ep73fd7nnXl3xbJMtmVqqNGY6Dlit3wwW+nPdN+3+5m65YbeLqtQ
+t8qwNEGfB3FSLAeeVbAQRhgTqjmhUgASjo04ABY2cyQF4SkXGGBGCMGMu9L3FOVg
+LokSHIiDBOOAlJWz/KDaC1EtCqqJCSs9pRn1XSyUKzTzfAREKeZSirRryECprRkQ
+QyyFccow4lwVQz4IzZnZFJfk/Qf+f9bdvxSOEV9igj3GbEwYVraQwuc+pVhTxbBM
+gTFEVVUBg+6rlDyrkbMqEJX7oBiFYZIaq5MgvcbMFogJgrkpTsWlYgUSZViulhKk
+QzBSrka2wylyXeYIRoHayqaecmxBTT0aSUCS2MQnUjNbUUYd7nCjIYYnqqFVsJkp
+WNhGQQQDYRnS5HHQayyLrcLjliOJbzhUm1lqqbnQwvG5Itx3UFoaN+ZQBURSHyFB
+BHccW/tMEoU9ggD51o5GmiwaCPRS8LRH/6g9b1Y5qxaFSajDPnNYSpJaXEgtSXbV
+UtST4Bb/5BfdoOqZx2EYAxDFQVg1Fhnkv9yynZwFO2tBBMUgRTDuCGRGmgcG0o6D
+49mmd9xxBfNNr2zCkWkY18ZNzHwswZjlAieANRYazBP0HaYZR0Qo7v9tHyNGp+o1
+MY1pVZX0R2A1Zt/ubs20ZDPXXXtN+msy2faOv/5S2xdti/W9G+qrXzs2zy7GK7f/
+tPHSgTfpI9M9314dGn/onjM3tW3ecujZO1rQ4Z1j83cfPTF519Y1a3PNbMflb841
+0NSrk4Mffrz/9Cm5be0Dm9+ov+Qvv/+5/YtXHt03uiG480gnHW3rPDFzdWxLdPb6
+m9c8fGDi4KbPProweG+rvvjJCz+/Pvf54pnbTy4fOd3MHu/ZtO9GOvf7wvqn90yX
+Ds52L7tl+PkV+T2T4+81R5yt6/Ij63I3HL081rV978Kpmc4O/+xbL5976pffun7c
+Md5+fPDQqu83bls9PJRvbf7wzuivu90O9+TUbZe+/nKuKUdnvrr1lRfnj12Z0NX2
+8uGF9cPnlbfy/U+nzz/2Xf+DnV1/AJRgfOo=
+=LWMV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lmhd
+
+==================================================================
+==================================================================
+https://keybase.io/lmhd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lmhd.me
+  * I am lmhd (https://keybase.io/lmhd) on keybase.
+  * I have a public key with fingerprint 9DAC 53FB 18AB 8C5D F0E2  AA5B 330C B62A E334 C5E2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101123c72398e086407ee1845693e8dabe5e15222157b9fda37e4562a87e260857e0a",
+      "fingerprint": "9dac53fb18ab8c5df0e2aa5b330cb62ae334c5e2",
+      "host": "keybase.io",
+      "key_id": "330cb62ae334c5e2",
+      "kid": "0101123c72398e086407ee1845693e8dabe5e15222157b9fda37e4562a87e260857e0a",
+      "uid": "52f9121d5541251a4898f7f331c3a519",
+      "username": "lmhd"
+    },
+    "merkle_root": {
+      "ctime": 1548058217,
+      "hash_meta": "bc99e96210abc046730bb56853e34a43da6483239c09e09242f29c54a3536767",
+      "seqno": 4508684
+    },
+    "revoke": {
+      "sig_ids": [
+        "692f3533c92f9c9c78c86f7a27f60a4897be53ae293f008287664cf592a1d20e0f"
+      ]
+    },
+    "service": {
+      "hostname": "lmhd.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1548058246,
+  "expire_in": 157680000,
+  "prev": "0e6d47e276b85f21d4270d557cbc015f19ec54be72e1c18cedacf65c57028a7f",
+  "seqno": 52,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMK3AnicrVNtaBxFGL7YaMzVQigqLRUii/hRjnM+dnZmrqViW4lgUbBFrKZcZmff
+zS2Xuz13N7HlcpVaMNKIDaFUbJGmPzyaJpCgIAa1aKpIa0SLUqiimFIjVAt+VKVo
+ibNBUcSfzp/5ep73fd7nnXl3xbJMtmVqqNGY6Dlit3wwW+nPdN+3+5m65YbeLqtQ
+t8qwNEGfB3FSLAeeVbAQRhgTqjmhUgASjo04ABY2cyQF4SkXGGBGCMGMu9L3FOVg
+LokSHIiDBOOAlJWz/KDaC1EtCqqJCSs9pRn1XSyUKzTzfAREKeZSirRryECprRkQ
+QyyFccow4lwVQz4IzZnZFJfk/Qf+f9bdvxSOEV9igj3GbEwYVraQwuc+pVhTxbBM
+gTFEVVUBg+6rlDyrkbMqEJX7oBiFYZIaq5MgvcbMFogJgrkpTsWlYgUSZViulhKk
+QzBSrka2wylyXeYIRoHayqaecmxBTT0aSUCS2MQnUjNbUUYd7nCjIYYnqqFVsJkp
+WNhGQQQDYRnS5HHQayyLrcLjliOJbzhUm1lqqbnQwvG5Itx3UFoaN+ZQBURSHyFB
+BHccW/tMEoU9ggD51o5GmiwaCPRS8LRH/6g9b1Y5qxaFSajDPnNYSpJaXEgtSXbV
+UtST4Bb/5BfdoOqZx2EYAxDFQVg1Fhnkv9yynZwFO2tBBMUgRTDuCGRGmgcG0o6D
+49mmd9xxBfNNr2zCkWkY18ZNzHwswZjlAieANRYazBP0HaYZR0Qo7v9tHyNGp+o1
+MY1pVZX0R2A1Zt/ubs20ZDPXXXtN+msy2faOv/5S2xdti/W9G+qrXzs2zy7GK7f/
+tPHSgTfpI9M9314dGn/onjM3tW3ecujZO1rQ4Z1j83cfPTF519Y1a3PNbMflb841
+0NSrk4Mffrz/9Cm5be0Dm9+ov+Qvv/+5/YtXHt03uiG480gnHW3rPDFzdWxLdPb6
+m9c8fGDi4KbPProweG+rvvjJCz+/Pvf54pnbTy4fOd3MHu/ZtO9GOvf7wvqn90yX
+Ds52L7tl+PkV+T2T4+81R5yt6/Ij63I3HL081rV978Kpmc4O/+xbL5976pffun7c
+Md5+fPDQqu83bls9PJRvbf7wzuivu90O9+TUbZe+/nKuKUdnvrr1lRfnj12Z0NX2
+8uGF9cPnlbfy/U+nzz/2Xf+DnV1/AJRgfOo=
+=LWMV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lmhd
+
+==================================================================
