@@ -8,6 +8,6 @@ This was my very first Data Science Project, wich is an exercise from the "OpenC
 ## My first Data Science Project 
 -----
 
-'''python
+```python
   import numpy as np
-  '''
+  ```
