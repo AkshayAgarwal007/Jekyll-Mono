@@ -9,5 +9,5 @@ This was my very first Data Science Project, wich is an exercise from the "OpenC
 -----
 
 '''python
-  immport numpy as np
+  import numpy as np
   '''
