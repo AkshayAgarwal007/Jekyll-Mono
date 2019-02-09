@@ -61,6 +61,5 @@ ax2.set_title("Gain des joueurs en fonction du nombre de parties")
 ax2.scatter(samples, [play_game(i)[0] for i in samples],c='r')
 ax2.scatter(samples, [play_game(i)[1] for i in samples], c='g')
   ```
-  And here are the results : 
-  
+  #### And here are the results : 
 ![alt text](https://github.com/TinoMargely/TinoMargely.github.io/blob/master/images/result.png "Logo Title Text 1")
