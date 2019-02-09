@@ -8,15 +8,11 @@ This was my very first Data Science Project, wich is an exercise from the "OpenC
 ## My first Data Science Project 
 -----
 
-### The Monnty Hall Problem
-" The Monty Hall problem is a brain teaser, in the form of a probability puzzle, loosely based on the American television game show Let's Make a Deal and named after its original host, Monty Hall. The problem was originally posed (and solved) in a letter by Steve Selvin to the American Statistician in 1975 (Selvin 1975a), (Selvin 1975b). It became famous as a question from a reader's letter quoted in Marilyn vos Savant's "Ask Marilyn" column in Parade magazine in 1990 (vos Savant 1990a):
-  Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice? ", (Wikipedia)
-    
-### Model The problem with Numpy
-
+### The Monty Hall Problem
+> " The Monty Hall problem is a brain teaser, in the form of a probability puzzle, loosely based on the American television game show Let's Make a Deal and named after its original host, Monty Hall. The problem was originally posed (and solved) in a letter by Steve Selvin to the American Statistician in 1975 (Selvin 1975a), (Selvin 1975b). It became famous as a question from a reader's letter quoted in Marilyn vos Savant's "Ask Marilyn" column in Parade magazine in 1990 (vos Savant 1990a): 
+> Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice? ", (Wikipedia)    
+ ### Model The problem with Numpy
 To model this problem I first started by importing all the libraries needed and created two numpy arrays. We will give to each door a different number, from 0 to 2. The first array called choix_joueur (Player's choice) picks up a random number between 0 and 2 represents a randomly chosen door for the player. The second array called bonne_porte (Good door) represents the door hiding the car. We also introduce a variable "n" wich representing the number of games we want to simulate.
-```python
-  ```
   
   ```python
 import matplotlib.pyplot as plt
@@ -34,7 +30,7 @@ bonne_porte = np.random.randint(0,3,n)
 garder = bonne_porte[bonne_porte == choix_joueur]
 changer = bonne_porte[choix_joueur != bonne_porte]
   ```
-  ### Results
+### Results
  
 In order to get some intuituve results, I decided to give 1 point to a player everytime he wins the game and ploted the number of wins for each strategy, by playing 100,000 games first and then I compared the number of wins for each strategy depending on the number of games played.  
 
@@ -61,7 +57,7 @@ ax2.set_title("Gain des joueurs en fonction du nombre de parties")
 ax2.scatter(samples, [play_game(i)[0] for i in samples],c='r')
 ax2.scatter(samples, [play_game(i)[1] for i in samples], c='g')
   ```
-  #### And here are the results : 
+#### And here are the results : 
 ![alt text](https://github.com/TinoMargely/TinoMargely.github.io/blob/master/images/result.png "Logo Title Text 1")
 
 In the end, it is clear that the best strategy is to change the door from your first choice if you want to win the car !
