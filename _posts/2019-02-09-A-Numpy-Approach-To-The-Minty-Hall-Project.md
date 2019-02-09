@@ -34,7 +34,7 @@ bonne_porte = np.random.randint(0,3,n)
 garder = bonne_porte[bonne_porte == choix_joueur]
 changer = bonne_porte[choix_joueur != bonne_porte]
   ```
- ###Results
+ ### Results
  
 In order to get some intuituve results, I decided to give 1 point to a player everytime he wins the game and ploted the number of wins for each strategy, by playing 100,000 games first and then I compared the number of wins for each strategy depending on the number of games played.  
 
@@ -62,3 +62,4 @@ ax2.scatter(samples, [play_game(i)[0] for i in samples],c='r')
 ax2.scatter(samples, [play_game(i)[1] for i in samples], c='g')
   ```
   And here are the results : 
+![alt text](https://github.com/TinoMargely/TinoMargely.github.io/blob/master/images/result.png "Logo Title Text 1")
