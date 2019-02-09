@@ -13,7 +13,7 @@ This was my very first Data Science Project, wich is an exercise from the "OpenC
 > Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice? ", (Wikipedia).
 
 ### Model the problem with Numpy
-To model this problem I first started by importing all the libraries needed and created two numpy arrays. We will give to each door a different number, from 0 to 2. The first array called choix_joueur (Player's choice) picks up a random number between 0 and 2 represents a randomly chosen door for the player. The second array called bonne_porte (Good door) represents the door hiding the car. We also introduce a variable "n" wich representing the number of games we want to simulate.
+To model this problem I first started by importing all the libraries needed and created two numpy arrays. We will give to each door a different number, from 0 to 2. The first array called choix_joueur (Player's choice) picks up a random number between 0 and 2 represents a randomly chosen door for the player. The second array, called bonne_porte (Good door), represents the door hiding the car. We also introduce a variable "n" wich representing the number of games we want to simulate.
   
   ```python
 import matplotlib.pyplot as plt
