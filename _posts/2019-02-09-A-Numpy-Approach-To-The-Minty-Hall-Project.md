@@ -26,7 +26,7 @@ n=100000
 
 choix_joueur = np.random.randint(0,3,n)
 bonne_porte = np.random.randint(0,3,n)
-  ```
+```
  We will stock the results of the expereience in 2 numpy arrays : garder / changer (Keep /Change). 
  If you decide to keep the first door you picked, you only win when your first choice is the same as the door randomly picked (seems obvious I know). On the contrary, if you decide to change your choice, picking the good door is the only way you can lose. To explain briefly, just imagine you picked one of the two wrong doors : the host reveals a goat behind one of the two doors left. Then final door is the one behind wich the car is hiding, and as you change the door you picked first you win it !
  In terms of numpy arrays, this can be illustrated like following : 
@@ -34,7 +34,7 @@ bonne_porte = np.random.randint(0,3,n)
 garder = bonne_porte[bonne_porte == choix_joueur]
 changer = bonne_porte[choix_joueur != bonne_porte]
   ```
- ### Results
+  ### Results
  
 In order to get some intuituve results, I decided to give 1 point to a player everytime he wins the game and ploted the number of wins for each strategy, by playing 100,000 games first and then I compared the number of wins for each strategy depending on the number of games played.  
 
