@@ -11,6 +11,7 @@ tags:
   - emojis
   - impostor syndrome
   - go
+permalink: /talk/silly
 ---
 
 Presented at [GoSheffield, November 2018](https://www.meetup.com/GoSheffield/events/255018075/)
