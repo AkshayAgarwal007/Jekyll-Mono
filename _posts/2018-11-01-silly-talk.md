@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Talk - Making Silly Things
-description: Slides and Speaker Notes for my GoSheffield talk on making silly things
+title: Making Silly Things
+description: Slides and Speaker Notes for my GoSheffield November 2018 talk on making silly things
 author: Lucy Davinhart
 date: 2018-11-01T18:00:00.000Z
-category: tech
+category: talk
 tags:
   - grafana
   - prometheus
   - emojis
   - impostor syndrome
+  - go
 ---
 
 Presented at [GoSheffield, November 2018](https://www.meetup.com/GoSheffield/events/255018075/)
@@ -23,10 +24,7 @@ Presented at [GoSheffield, November 2018](https://www.meetup.com/GoSheffield/eve
 
 # Script / Speaker Notes
 
-[D] 🙃 (Why you should build silly things)
-
-## 0. Title slide [30s]
-[30s]
+## 0 - Title slide
 
 `<show emoji and twitter handle>`
 
@@ -36,8 +34,7 @@ As much as I’d like my talk to be named Upside Down Smiley Face Emoji, you’d
 
 So I’m gonna talk about making silly things, and why you should do it.
 
-## 1 Emojis - Example of being Silly [4.5m]
-[5m]
+## 1 - Emojis - Example of being Silly
 
 Let’s start with an example. I have a reputation for perhaps being a little enthusiastic when it comes to emojis. And so while ago, this manifested as this:
 
@@ -67,7 +64,7 @@ Crossover point
 
 
 
-## 2 - So why am I talking about this? [1.5m]
+## 2 - So why am I talking about this?
 
 First we have to go back a few years…
 
@@ -81,7 +78,7 @@ First we have to go back a few years…
 
 
 
-## 4 - Impostor Syndrome - The problem [3.5m]
+## 4 - Impostor Syndrome - The problem
 
 Impostor syndrome begins
 
@@ -112,7 +109,7 @@ Big Ideas are overwhelming
 
 
 
-## 5 - The Solution? [5.5m]
+## 5 - The Solution?
 
 These days, I have the word “Senior” in my job title, so people seem to think I’m awesome. They might be right... [pause for laughter?] but nah, the impostor syndrome is still there. I’m just getting better at dealing with it.
 
@@ -147,7 +144,7 @@ L&D Time
 - And one of the great things about this is that it teaches you to give yourself Permission to Fail. 
 - L&D time is for you to do what you want, you’re not committing to shipping anything at the end of it. With this structured L&D time, or even in your own time making something silly without any commitment to producing anything of value at the end of it, you’re training yourself to try new ideas, and accept that sometimes stuff doesn’t work out. Then in theory, when you’re struggling with your day job, it becomes less difficult to admit that it’s not working out and that you might need help. I’m still working on that one, but this sort of thing really helps with that.
 
-Go! [2.5m]
+Go!
 
 - And I want to bring things back to Go; this is Go Sheffield after all. 
 - While Ruby was the language that got me back into working in side-projects, it was Go that made things fun again. 
