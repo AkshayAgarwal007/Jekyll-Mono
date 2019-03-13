@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-## Lusitania M&aelig;gan Heather Artemis Julian Davinhart
+## Lucy M&aelig;gan Heather Artemis Davinhart
 
-Yes, that technically makes my initials LMHAJD, but LMHD rolls off the tongue better.
+Yes, that technically makes my initials LMHAD, but LMHD rolls off the tongue better.
 
 (Also, I bought lmhd.me before I added the additional names, and I'm too lazy to update my namespacing)
 
