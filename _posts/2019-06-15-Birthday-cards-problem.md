@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Numpy approach to the Monty Hall problem
+title: A birthday cards problem
 author: Tino Margely
 ---
 This was my very first Data Science Project, it is an exercise from the “OpenClassroom” e-learning platform. We first started to approach the Monty Hall problem using only python list and functions. The objective of this exercise was to understand the potential and efficiency of Numpy over simple Python lists.
