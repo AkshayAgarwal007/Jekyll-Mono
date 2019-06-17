@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
-author: Author Name
+title: Titanic 3
+author: Tino Margely
 ---
 
 ## Projet Titanic 3
