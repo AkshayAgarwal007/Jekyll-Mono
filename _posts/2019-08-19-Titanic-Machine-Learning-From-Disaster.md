@@ -3,7 +3,7 @@ layout: post
 title: Titanic Machine Learning From Disaster
 author: Tino Margely
 ---
-When starting with machine learning, you usually try to find some cool and easy projects to test tour newly acquired skills. "Titanic, ML from disaster" is one if not the most famous beginner ML problem that you can find on the internet.  It was launched on the Kaggle website a few years ago and more than 10,000 entered the challenge.
+When starting with machine learning, you usually try to find some cool and easy projects to test tour newly acquired skills. "Titanic, ML from disaster" is one if not the most famous beginner ML problem that you can find on the internet.  It was launched on the Kaggle website a few years ago and more than 10,000 persons/teams entered the challenge.
 
 # Titanic Machine Learning From Disaster
 
@@ -140,7 +140,7 @@ plt.savefig("Heatmap_missing_values")
 ```
 
 
-![png](images/output_11_0.png)
+![png](images/Titanic_output_11_0.png)
 
 
 Here we can see that we are missing a lot of information on the Cabin and Age of the different passengers.
@@ -275,7 +275,7 @@ plt.savefig("Heatmap_corr")
 ```
 
 
-![png](images/output_15_0.png)
+![png](images/Titanic_output_15_0.png)
 
 
 
@@ -286,7 +286,7 @@ plt.savefig("Pclass_Survived")
 ```
 
 
-![png](images/output_16_0.png)
+![png](images/Titanic_output_16_0.png)
 
 
 
@@ -296,7 +296,7 @@ plt.savefig("Embarked_Survived")
 ```
 
 
-![png](images/output_17_0.png)
+![png](images/Titanic_output_17_0.png)
 
 
 
@@ -307,7 +307,7 @@ plt.savefig("Heatmap_missing_values_2")
 ```
 
 
-![png](images/output_18_0.png)
+![png](images/Titanic_output_18_0.png)
 
 
 
@@ -355,7 +355,7 @@ plt.savefig("Embarked_count")
 ```
 
 
-![png](images/output_25_0.png)
+![png](images/Titanic_output_25_0.png)
 
 
 
@@ -690,7 +690,7 @@ plt.savefig("Classifier_Accuracy")
 ```
 
 
-![png](images/output_38_0.png)
+![alt text](images/Titanic_output_38_0.png)
 
 
 From this graph we can see that the Gradient Boosting Classifier had the best results, we'll use this one to predict if the passengers survived or not
