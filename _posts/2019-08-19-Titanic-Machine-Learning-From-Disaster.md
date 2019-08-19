@@ -140,7 +140,7 @@ plt.savefig("Heatmap_missing_values")
 ```
 
 
-![png](images/Titanic_output_11_0.png)
+![png](/images/Titanic_output_11_0.png)
 
 
 Here we can see that we are missing a lot of information on the Cabin and Age of the different passengers.
@@ -275,7 +275,7 @@ plt.savefig("Heatmap_corr")
 ```
 
 
-![png](images/Titanic_output_15_0.png)
+![png](/images/Titanic_output_15_0.png)
 
 
 
@@ -286,7 +286,7 @@ plt.savefig("Pclass_Survived")
 ```
 
 
-![png](images/Titanic_output_16_0.png)
+![png](/images/Titanic_output_16_0.png)
 
 
 
@@ -296,7 +296,7 @@ plt.savefig("Embarked_Survived")
 ```
 
 
-![png](images/Titanic_output_17_0.png)
+![alt text](/images/Titanic_output_17_0.png "17")
 
 
 
@@ -307,7 +307,7 @@ plt.savefig("Heatmap_missing_values_2")
 ```
 
 
-![png](images/Titanic_output_18_0.png)
+![alt text](/images/Titanic_output_18_0.png "18")
 
 
 
@@ -355,7 +355,7 @@ plt.savefig("Embarked_count")
 ```
 
 
-![png](images/Titanic_output_25_0.png)
+![alt text](/images/Titanic_output_25_0.png "25")
 
 
 
@@ -690,7 +690,7 @@ plt.savefig("Classifier_Accuracy")
 ```
 
 
-![alt text](images/Titanic_output_38_0.png)
+![alt text](/images/Titanic_output_38_0.png "38")
 
 
 From this graph we can see that the Gradient Boosting Classifier had the best results, we'll use this one to predict if the passengers survived or not
