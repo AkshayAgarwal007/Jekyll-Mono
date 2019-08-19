@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Numpy approach to the Monty Hall problem
+title: Titanic Machine Learning From Disaster
 author: Tino Margely
 ---
 # Titanic Machine Learning From Disaster
