@@ -787,7 +787,3 @@ I'll post an other article whenever I succeed to beat that score of 78,468%.
 See you next time,
 Tino Margely
 
-
-```python
-
-```
