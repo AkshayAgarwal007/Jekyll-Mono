@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RE-creating the 'Quick Draw' Neural Net using Convolutional Neural Netwrok
+title: Recreating the 'Quick Draw' Neural Net using Convolutional Neural Netwrok
 author: Tino Margely
 ---
 
@@ -44,7 +44,7 @@ plt.title('Pizza')
 
 
 
-![png](images/output_7_1.png)
+![png](/images/output_7_1.png)
 
 
 
@@ -105,7 +105,7 @@ for i in range(16):
 ```
 
 
-![png](images/output_9_0.png)
+![png](/images/output_9_0.png)
 
 
 
@@ -233,7 +233,7 @@ for i in range(16):
 ```
 
 
-![png](images/output_20_0.png)
+![png](/images/output_20_0.png)
 
 
 
@@ -271,7 +271,7 @@ plt.title('|' + names[y_test[1]] + '| Prediction : ' + names[np.argmax(a)] + '|'
 
 
 
-![png](images/output_24_1.png)
+![png](/images/output_24_1.png)
 
 
 
