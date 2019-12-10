@@ -4,6 +4,8 @@ title: Recreating the 'Quick Draw' Neural Net using Convolutional Neural Netwrok
 author: Tino Margely
 ---
 
+ Headline text you know
+----
 # Re-creating the "Draw, Quick" Neural Net 
 
  > Balalalblablalblalblalblalb
