@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recreating the 'Quick Draw' Neural Net using Convolutional Neural Netwrok
+title: Titanic Machine Learning From Disaster 2 
 author: Tino Margely
 ---
 
@@ -293,7 +293,7 @@ for i in range(1):
 ```
 
 
-![png](images/output_25_0.png)
+![png](/images/output_25_0.png)
 
 
 
