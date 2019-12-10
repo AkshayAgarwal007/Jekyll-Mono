@@ -5,8 +5,8 @@ author: Tino Margely
 ---
 When starting with machine learning, you usually try to find some cool and easy projects to test tour newly acquired skills. "Titanic, ML from disaster" is one if not the most famous beginner ML problem that you can find on the internet.  It was launched on the Kaggle website a few years ago and more than 10,000 persons/teams entered the challenge.
 
-## Re-creating the "Draw, Quick" Neural Net 
------
+# Re-creating the "Draw, Quick" Neural Net 
+
 
 ## Import libraries
 ```python
